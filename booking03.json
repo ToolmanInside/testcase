@@ -16,7 +16,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.android.permissioncontroller:id/permission_allow_one_time_button"
+                    "tag": "com.booking:id/voice_recorder_button_close"
                 }
             ]
         }
