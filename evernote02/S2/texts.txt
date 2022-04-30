@@ -1,0 +1,4 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "evernote02/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/avatar_layout" , "screenshotPath" : "evernote02/S2/pngs/576_358_863_645.png"}
+{ "text" : "yejiaming20vi" , "resource-id" : "com.yinxiang:id/full_name_edit" , "screenshotPath" : "evernote02/S2/pngs/84_984_1356_1122.png"}
+{ "text" : "Self introduction" , "resource-id" : "com.yinxiang:id/self_intro_edit" , "screenshotPath" : "evernote02/S2/pngs/84_1389_1356_1527.png"}

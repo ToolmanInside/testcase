@@ -1,0 +1,14 @@
+{ "text" : "" , "content-desc" : "Home, Tab, selected" , "screenshotPath" : "kindle01/S0/pngs/0_2178_360_2392.png"}
+{ "text" : "" , "content-desc" : "LIBRARY, Tab" , "screenshotPath" : "kindle01/S0/pngs/360_2178_720_2392.png"}
+{ "text" : "" , "content-desc" : "Store, Tab" , "screenshotPath" : "kindle01/S0/pngs/720_2178_1080_2392.png"}
+{ "text" : "" , "content-desc" : "More, Tab" , "screenshotPath" : "kindle01/S0/pngs/1080_2178_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/search_box" , "screenshotPath" : "kindle01/S0/pngs/56_119_1244_259.png"}
+{ "text" : "" , "content-desc" : "Notifications. Button." , "resource-id" : "com.amazon.kindlefc:id/landing_screen_action" , "screenshotPath" : "kindle01/S0/pngs/1300_149_1440_233.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/shoveler_recycler_view" , "screenshotPath" : "kindle01/S0/pngs/0_298_1440_2178.png"}
+{ "text" : "NEW RELEASES IN KINDLE STORE" , "resource-id" : "com.amazon.kindlefc:id/home_card_header_title" , "screenshotPath" : "kindle01/S0/pngs/56_787_803_846.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/shoveler_card_nested_recycler" , "screenshotPath" : "kindle01/S0/pngs/0_934_1439_1459.png"}
+{ "text" : "SEE ALL" , "content-desc" : "See all in New Releases in Kindle Store" , "resource-id" : "com.amazon.kindlefc:id/home_card_footer_button" , "screenshotPath" : "kindle01/S0/pngs/0_1505_1439_1679.png"}
+{ "text" : "" , "content-desc" : "同名同姓受害者协会（只是上网搜索自己的名字，却发现即将成为下一个猎物！江户川乱步奖得主推理杰作！）（读客悬疑文库） by 下村敦史" , "screenshotPath" : "kindle01/S0/pngs/56_934_406_1459.png"}
+{ "text" : "" , "content-desc" : "抗炎生活（抗炎 = 抗疲劳 + 抗衰老 + 抗压 + 日常防癌！延缓老化、摆脱疾病，都得从抗发炎做起） by 池谷敏郎" , "screenshotPath" : "kindle01/S0/pngs/434_934_762_1459.png"}
+{ "text" : "" , "content-desc" : "透明的螺旋（东野圭吾2022重磅新作！一个关于她、她、她&hellip;&hellip;的故事。不幸的命运，也会像基因一样代代循环吗？亲爱的女孩，别重蹈覆辙，快逃，快逃，快逃！一个案件，两个真相，&ldquo;神探伽利略&rdquo;汤川学的秘密初次公开！） by 东野圭吾, 史诗" , "screenshotPath" : "kindle01/S0/pngs/790_934_1140_1459.png"}
+{ "text" : "" , "content-desc" : "输出式阅读法：把学到的知识用起来【你是读对了，还是白读了？选对阅读方法，拒绝白读。10分钟读完一本书，30分钟写出输出笔记。把知识变成能力，把书真正用起来】 by [日]尾藤克之" , "screenshotPath" : "kindle01/S0/pngs/1168_934_1439_1459.png"}

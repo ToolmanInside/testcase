@@ -1,0 +1,3 @@
+{ "text" : "" , "resource-id" : "com.booking:id/touch_outside" , "screenshotPath" : "booking03/S1/pngs/0_84_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/voice_recorder_button_close" , "screenshotPath" : "booking03/S1/pngs/1272_1606_1440_1774.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/voice_recorder_button_container" , "screenshotPath" : "booking03/S1/pngs/636_2140_804_2308.png"}

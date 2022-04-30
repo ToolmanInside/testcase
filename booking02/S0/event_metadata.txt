@@ -1,0 +1,4 @@
+pathToElementImageCrop: booking02/S0/pngs/1300_336_1384_420.png;
+coords: {'x1': 1300, 'y1': 336, 'x2': 1384, 'y2': 420};
+text_identifier: { "text" : "" , "content-desc" : "Close" , "resource-id" : "com.booking:id/emergency_banner_close" };
+event: click;

@@ -1,0 +1,48 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1440\l|height = 2392\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/action_bar_root\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	6	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/activity_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,2392]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	7	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/tool_bar_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,295]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	8	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.amazon.kindlefc:id/notification_swipe_layout\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,295][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	9	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.amazon.kindlefc:id/navigation_bar\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,84][1440,291]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	10	[label="{class = android.view.View\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,291][1440,295]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	11	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,295][1440,2392]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	12	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/navigation_bar_back_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [56,145][140,229]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = kindle01/S1/pngs/56_145_140_229.png\l}"]
+	13	[label="{class = android.widget.TextView\l|text = NOTIFICATIONS\l|resource-id = com.amazon.kindlefc:id/notification_navigation_bar_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [182,154][534,220]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	14	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/navigation_bar_trash_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [1300,145][1384,229]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = kindle01/S1/pngs/1300_145_1384_229.png\l}"]
+	15	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.amazon.kindlefc:id/empty_view\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,295][1440,2392]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	16	[label="{class = android.widget.ImageView\l|text = \l|content-desc = Back\l|resource-id = com.amazon.kindlefc:id/navigation_back_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [56,145][140,229]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = kindle01/S1/pngs/56_145_140_229.png\l}"]
+	17	[label="{class = android.widget.ImageView\l|text = \l|content-desc = Delete All\l|resource-id = com.amazon.kindlefc:id/navigation_trash_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = false\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [1300,145][1384,229]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = kindle01/S1/pngs/1300_145_1384_229.png\l}"]
+	18	[label="{class = android.widget.TextView\l|text = You don't have any notifications right now. Check back soon!\l|resource-id = com.amazon.kindlefc:id/empty_text\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,295][1440,530]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	19	[label="{class = android.widget.ImageView\l|text = \l|content-desc = You don't have any notifications right now. Check back soon!\l|resource-id = com.amazon.kindlefc:id/refresh_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [678,530][762,656]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = kindle01/S1/pngs/678_530_762_656.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	11 -> 15
+	12 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+
+
+}

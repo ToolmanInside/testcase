@@ -1,0 +1,3 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "msbing06/S2/pngs/0_84_196_252.png"}
+{ "text" : "" , "resource-id" : "android:id/list" , "screenshotPath" : "msbing06/S2/pngs/0_252_1440_2392.png"}
+{ "text" : "" , "resource-id" : "android:id/checkbox" , "screenshotPath" : "msbing06/S2/pngs/1272_351_1384_463.png"}

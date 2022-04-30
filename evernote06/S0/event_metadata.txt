@@ -1,0 +1,4 @@
+pathToElementImageCrop: evernote06/S0/pngs/1152_2219_1440_2389.png;
+coords: {'x1': 1152, 'y1': 2219, 'x2': 1440, 'y2': 2389};
+text_identifier: { "text" : "My" , "resource-id" : "com.yinxiang:id/maintab_p3" };
+event: click;

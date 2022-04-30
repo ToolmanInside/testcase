@@ -1,0 +1,4 @@
+pathToElementImageCrop: booking03/S0/pngs/1195_2112_1391_2308.png;
+coords: {'x1': 1195, 'y1': 2112, 'x2': 1391, 'y2': 2308};
+text_identifier: { "text" : "" , "resource-id" : "com.booking:id/voice_button_viewstub" , "text" : "" , "resource-id" : "com.booking:id/search_voice_btn" };
+event: click;

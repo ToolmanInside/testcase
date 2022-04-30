@@ -1,0 +1,16 @@
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/element2" , "screenshotPath" : "investing01/S1/pngs/182_84_1440_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_1" , "screenshotPath" : "investing01/S1/pngs/14_84_182_280.png"}
+{ "text" : "Search instruments" , "resource-id" : "com.fusionmedia.investing:id/menuSearchEditText" , "screenshotPath" : "investing01/S1/pngs/325_141_1296_222.png"}
+{ "text" : "" , "content-desc" : "ViewPager" , "resource-id" : "com.fusionmedia.investing:id/pager" , "screenshotPath" : "investing01/S1/pngs/0_438_1440_2217.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/horizontal" , "screenshotPath" : "investing01/S1/pngs/0_280_1440_455.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/result_list" , "screenshotPath" : "investing01/S1/pngs/0_438_1440_2217.png"}
+{ "text" : "Symbols" , "content-desc" : "Symbols" , "screenshotPath" : "investing01/S1/pngs/0_280_315_455.png"}
+{ "text" : "News" , "content-desc" : "News" , "screenshotPath" : "investing01/S1/pngs/315_280_561_455.png"}
+{ "text" : "Analysis" , "content-desc" : "Analysis" , "screenshotPath" : "investing01/S1/pngs/561_280_870_455.png"}
+{ "text" : "Events" , "content-desc" : "Events" , "screenshotPath" : "investing01/S1/pngs/870_280_1142_455.png"}
+{ "text" : "Authors" , "content-desc" : "Authors" , "screenshotPath" : "investing01/S1/pngs/1142_280_1440_455.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/search_data_layout" , "screenshotPath" : "investing01/S1/pngs/0_533_1440_728.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/search_data_layout" , "screenshotPath" : "investing01/S1/pngs/0_728_1440_923.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/search_data_layout" , "screenshotPath" : "investing01/S1/pngs/0_923_1440_1118.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/search_data_layout" , "screenshotPath" : "investing01/S1/pngs/0_1118_1440_1313.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/search_data_layout" , "screenshotPath" : "investing01/S1/pngs/0_1313_1440_1508.png"}

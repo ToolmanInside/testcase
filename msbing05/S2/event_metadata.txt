@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing05/S2/pngs/266_1884_434_2052.png;
+coords: {'x1': 266, 'y1': 1884, 'x2': 434, 'y2': 2052};
+text_identifier: { "text" : "" , "content-desc" : "Videos" , "resource-id" : "com.microsoft.bing:id/hp_scope_videos" };
+event: click;

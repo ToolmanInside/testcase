@@ -1,0 +1,4 @@
+pathToElementImageCrop: booking04/S0/pngs/1132_98_1300_266.png;
+coords: {'x1': 1132, 'y1': 98, 'x2': 1300, 'y2': 266};
+text_identifier: { "text" : "" , "content-desc" : "Notifications" , "resource-id" : "com.booking:id/mnuNotifications" };
+event: click;

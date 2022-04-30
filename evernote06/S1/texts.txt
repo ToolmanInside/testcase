@@ -1,0 +1,18 @@
+{ "text" : "" , "resource-id" : "com.yinxiang:id/mine_scroll_view" , "screenshotPath" : "evernote06/S1/pngs/0_84_1440_2217.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/mine_msg_container" , "screenshotPath" : "evernote06/S1/pngs/1230_84_1440_280.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/maintab_menu" , "screenshotPath" : "evernote06/S1/pngs/622_2175_818_2371.png"}
+{ "text" : "Home" , "resource-id" : "com.yinxiang:id/maintab_p0" , "screenshotPath" : "evernote06/S1/pngs/0_2219_288_2389.png"}
+{ "text" : "Search" , "resource-id" : "com.yinxiang:id/maintab_p1" , "screenshotPath" : "evernote06/S1/pngs/288_2219_576_2389.png"}
+{ "text" : "EverHub" , "resource-id" : "com.yinxiang:id/maintab_p2" , "screenshotPath" : "evernote06/S1/pngs/864_2219_1152_2389.png"}
+{ "text" : "My" , "resource-id" : "com.yinxiang:id/maintab_p3" , "screenshotPath" : "evernote06/S1/pngs/1152_2219_1440_2389.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/mine_user_avatar" , "screenshotPath" : "evernote06/S1/pngs/84_574_308_798.png"}
+{ "text" : "yejiaming20vi" , "resource-id" : "com.yinxiang:id/mine_user_name" , "screenshotPath" : "evernote06/S1/pngs/84_798_1090_901.png"}
+{ "text" : "Homepage" , "resource-id" : "com.yinxiang:id/mine_yx_homepage" , "screenshotPath" : "evernote06/S1/pngs/1039_651_1426_800.png"}
+{ "text" : "With 印象笔记 since 2 2022" , "resource-id" : "com.yinxiang:id/mine_user_start_time" , "screenshotPath" : "evernote06/S1/pngs/84_912_672_1022.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/mine_area_account_info" , "screenshotPath" : "evernote06/S1/pngs/18_1022_1422_1441.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/mine_area_ad" , "screenshotPath" : "evernote06/S1/pngs/0_1441_1440_1739.png"}
+{ "text" : "Upgrade" , "resource-id" : "com.yinxiang:id/mine_btn_account_upgrade" , "screenshotPath" : "evernote06/S1/pngs/962_1232_1355_1354.png"}
+{ "text" : "Perks&Extras" , "resource-id" : "com.yinxiang:id/mine_activities" , "screenshotPath" : "evernote06/S1/pngs/43_1758_1397_1946.png"}
+{ "text" : "Help" , "resource-id" : "com.yinxiang:id/mine_help" , "screenshotPath" : "evernote06/S1/pngs/43_1946_1397_2134.png"}
+{ "text" : "Settings" , "resource-id" : "com.yinxiang:id/mine_settings" , "screenshotPath" : "evernote06/S1/pngs/43_2134_1397_2217.png"}
+{ "text" : "Basic" , "resource-id" : "com.yinxiang:id/mine_account_type" , "screenshotPath" : "evernote06/S1/pngs/1143_1041_1397_1232.png"}

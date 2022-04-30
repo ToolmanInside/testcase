@@ -1,0 +1,4 @@
+pathToElementImageCrop: adguard04/S1/pngs/1071_1346_1305_1514.png;
+coords: {'x1': 1071, 'y1': 1346, 'x2': 1305, 'y2': 1514};
+text_identifier: { "text" : "CLOSE" , "resource-id" : "android:id/button1" };
+event: click;

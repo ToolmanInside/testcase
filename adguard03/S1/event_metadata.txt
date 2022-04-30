@@ -1,0 +1,4 @@
+pathToElementImageCrop: adguard03/S1/pngs/528_601_913_853.png;
+coords: {'x1': 528, 'y1': 601, 'x2': 913, 'y2': 853};
+text_identifier: { "text" : "" , "resource-id" : "com.adguard.android:id/switch_item" };
+event: click;

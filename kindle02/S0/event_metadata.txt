@@ -1,0 +1,4 @@
+pathToElementImageCrop: kindle02/S0/pngs/56_119_1244_259.png;
+coords: {'x1': 56, 'y1': 119, 'x2': 1244, 'y2': 259};
+text_identifier: { "text" : "" , "resource-id" : "com.amazon.kindlefc:id/search_box" };
+event: click;

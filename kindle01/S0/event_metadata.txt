@@ -1,0 +1,4 @@
+pathToElementImageCrop: kindle01/S0/pngs/1300_149_1440_233.png;
+coords: {'x1': 1300, 'y1': 149, 'x2': 1440, 'y2': 233};
+text_identifier: { "text" : "" , "content-desc" : "Notifications. Button." , "resource-id" : "com.amazon.kindlefc:id/landing_screen_action" };
+event: click;

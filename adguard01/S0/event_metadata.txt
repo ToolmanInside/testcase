@@ -1,0 +1,4 @@
+pathToElementImageCrop: adguard01/S0/pngs/1105_2217_1398_2385.png;
+coords: {'x1': 1105, 'y1': 2217, 'x2': 1398, 'y2': 2385};
+text_identifier: { "text" : "TURN ON" , "resource-id" : "com.adguard.android:id/snackbar_action" };
+event: click;

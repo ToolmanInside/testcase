@@ -1,0 +1,15 @@
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/panel_toolbar" , "screenshotPath" : "msbing05/S1/pngs/0_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_scrollview" , "screenshotPath" : "msbing05/S1/pngs/0_84_1440_2224.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_logo_background" , "screenshotPath" : "msbing05/S1/pngs/622_2224_818_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_tabs_count_layout" , "screenshotPath" : "msbing05/S1/pngs/943_2224_1188_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_switch" , "screenshotPath" : "msbing05/S1/pngs/1050_84_1440_238.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_back_layout" , "screenshotPath" : "msbing05/S1/pngs/0_2224_245_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_more_button" , "screenshotPath" : "msbing05/S1/pngs/1265_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_button" , "screenshotPath" : "msbing05/S1/pngs/28_112_903_210.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_search_voice" , "screenshotPath" : "msbing05/S1/pngs/903_126_1008_196.png"}
+{ "text" : "今日热图" , "resource-id" : "com.microsoft.bing:id/card_title" , "screenshotPath" : "msbing05/S1/pngs/28_252_1412_420.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/card_content" , "screenshotPath" : "msbing05/S1/pngs/0_420_1440_996.png"}
+{ "text" : "明星" , "resource-id" : "com.microsoft.bing:id/card_title" , "screenshotPath" : "msbing05/S1/pngs/28_1026_1412_1194.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/card_content" , "screenshotPath" : "msbing05/S1/pngs/0_1194_1440_1770.png"}
+{ "text" : "美图" , "resource-id" : "com.microsoft.bing:id/card_title" , "screenshotPath" : "msbing05/S1/pngs/28_1800_1412_1968.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/card_content" , "screenshotPath" : "msbing05/S1/pngs/0_1968_1440_2224.png"}

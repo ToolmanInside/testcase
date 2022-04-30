@@ -1,0 +1,7 @@
+{ "text" : "Cancel" , "resource-id" : "com.yinxiang:id/dialog_share_dismiss" , "screenshotPath" : "evernote01/S2/pngs/0_2182_1440_2392.png"}
+{ "text" : "Picture sharing" , "resource-id" : "com.yinxiang:id/dialog_share_image" , "screenshotPath" : "evernote01/S2/pngs/26_1817_299_2155.png"}
+{ "text" : "WeChat" , "resource-id" : "com.yinxiang:id/dialog_share_wechat" , "screenshotPath" : "evernote01/S2/pngs/299_1817_572_2106.png"}
+{ "text" : "Moments" , "resource-id" : "com.yinxiang:id/dialog_share_moment" , "screenshotPath" : "evernote01/S2/pngs/572_1817_845_2106.png"}
+{ "text" : "Weibo" , "resource-id" : "com.yinxiang:id/dialog_share_weibo" , "screenshotPath" : "evernote01/S2/pngs/845_1817_1118_2106.png"}
+{ "text" : "QZone" , "resource-id" : "com.yinxiang:id/dialog_share_qzone" , "screenshotPath" : "evernote01/S2/pngs/1118_1817_1391_2106.png"}
+{ "text" : "QQ" , "resource-id" : "com.yinxiang:id/dialog_share_qq" , "screenshotPath" : "evernote01/S2/pngs/1391_1820_1440_2106.png"}

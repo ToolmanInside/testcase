@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing04/S0/pngs/658_1884_826_2052.png;
+coords: {'x1': 658, 'y1': 1884, 'x2': 826, 'y2': 2052};
+text_identifier: { "text" : "" , "content-desc" : "Academic" , "resource-id" : "com.microsoft.bing:id/hp_scope_academic" };
+event: click;

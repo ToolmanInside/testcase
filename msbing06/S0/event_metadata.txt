@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing06/S0/pngs/1216_112_1356_252.png;
+coords: {'x1': 1216, 'y1': 112, 'x2': 1356, 'y2': 252};
+text_identifier: { "text" : "" , "resource-id" : "com.microsoft.bing:id/search_homepage_hamburger" };
+event: click;

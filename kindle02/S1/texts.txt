@@ -1,0 +1,5 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "kindle02/S1/pngs/0_93_196_289.png"}
+{ "text" : "Search Kindle" , "resource-id" : "com.amazon.kindlefc:id/search_query" , "screenshotPath" : "kindle02/S1/pngs/392_119_1384_259.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/top_search_recyclerView" , "screenshotPath" : "kindle02/S1/pngs/0_466_1440_970.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/top_search_widget_header_shift_container" , "screenshotPath" : "kindle02/S1/pngs/1087_298_1412_466.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/kfc_search_history_clear" , "screenshotPath" : "kindle02/S1/pngs/976_974_1412_1142.png"}

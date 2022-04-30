@@ -1,0 +1,26 @@
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/element2" , "screenshotPath" : "investing02/S1/pngs/182_84_922_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_1" , "screenshotPath" : "investing02/S1/pngs/14_84_182_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_3" , "screenshotPath" : "investing02/S1/pngs/922_84_1090_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_4" , "screenshotPath" : "investing02/S1/pngs/1090_84_1258_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_5" , "screenshotPath" : "investing02/S1/pngs/1258_84_1426_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/siblingsPanel" , "screenshotPath" : "investing02/S1/pngs/182_84_724_280.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/handle" , "screenshotPath" : "investing02/S1/pngs/0_1903_1440_2024.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/instrumentShareButton" , "screenshotPath" : "investing02/S1/pngs/1317_331_1384_398.png"}
+{ "text" : "" , "content-desc" : "ViewPager" , "resource-id" : "com.fusionmedia.investing:id/pager" , "screenshotPath" : "investing02/S1/pngs/0_695_1440_2024.png"}
+{ "text" : "" , "content-desc" : "Advertisement" , "resource-id" : "img_anch_CNjJna_lu_cCFQrzaAodzNcIhw" , "screenshotPath" : "investing02/S1/pngs/160_2024_1280_2200.png"}
+{ "text" : "" , "resource-id" : "abgc" , "screenshotPath" : "investing02/S1/pngs/1147_2024_1280_2080.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/horizontal" , "screenshotPath" : "investing02/S1/pngs/0_537_1440_712.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/scrollView" , "screenshotPath" : "investing02/S1/pngs/0_695_1440_2024.png"}
+{ "text" : "" , "resource-id" : "cbb" , "screenshotPath" : "investing02/S1/pngs/1224_2024_1280_2080.png"}
+{ "text" : "Overview" , "content-desc" : "Overview" , "screenshotPath" : "investing02/S1/pngs/0_537_316_712.png"}
+{ "text" : "Components" , "content-desc" : "Components" , "screenshotPath" : "investing02/S1/pngs/316_537_710_712.png"}
+{ "text" : "Technical" , "content-desc" : "Technical" , "screenshotPath" : "investing02/S1/pngs/710_537_1034_712.png"}
+{ "text" : "News" , "content-desc" : "News" , "screenshotPath" : "investing02/S1/pngs/1034_537_1269_712.png"}
+{ "text" : "Analysis" , "content-desc" : "Analysis" , "screenshotPath" : "investing02/S1/pngs/1269_537_1440_712.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/overview_small_chart" , "screenshotPath" : "investing02/S1/pngs/42_758_1398_1416.png"}
+{ "text" : "" , "resource-id" : "com.fusionmedia.investing:id/overview_chart_chooser" , "screenshotPath" : "investing02/S1/pngs/1200_1444_1398_1556.png"}
+{ "text" : "32,913.15 - 33,919.59" , "resource-id" : "com.fusionmedia.investing:id/value" , "screenshotPath" : "investing02/S1/pngs/720_1877_1398_1943.png"}
+{ "text" : "32,284.35 - 36,952.65" , "resource-id" : "com.fusionmedia.investing:id/value" , "screenshotPath" : "investing02/S1/pngs/720_1993_1398_2024.png"}
+{ "text" : "" , "resource-id" : "abgc" , "screenshotPath" : "investing02/S1/pngs/1140_1637_1280_1693.png"}
+{ "text" : "" , "resource-id" : "anim" , "screenshotPath" : "investing02/S1/pngs/160_1637_1280_1813.png"}
+{ "text" : "" , "resource-id" : "cbb" , "screenshotPath" : "investing02/S1/pngs/1224_1637_1280_1693.png"}

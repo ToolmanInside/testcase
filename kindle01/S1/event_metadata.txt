@@ -1,0 +1,4 @@
+pathToElementImageCrop: kindle01/S1/pngs/56_145_140_229.png;
+coords: {'x1': 56, 'y1': 145, 'x2': 140, 'y2': 229};
+text_identifier: { "text" : "" , "resource-id" : "com.amazon.kindlefc:id/navigation_bar_back_button" , "text" : "" , "content-desc" : "Back" , "resource-id" : "com.amazon.kindlefc:id/navigation_back_button" };
+event: click;

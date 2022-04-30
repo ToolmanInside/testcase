@@ -1,0 +1,15 @@
+{ "text" : "" , "content-desc" : "Open" , "screenshotPath" : "booking04/S0/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Notifications" , "resource-id" : "com.booking:id/mnuNotifications" , "screenshotPath" : "booking04/S0/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "booking04/S0/pngs/1300_98_1440_266.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/search_container_scroll_view" , "screenshotPath" : "booking04/S0/pngs/0_280_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/search_voice_btn" , "screenshotPath" : "booking04/S0/pngs/1195_2112_1391_2308.png"}
+{ "text" : "" , "content-desc" : "Close" , "resource-id" : "com.booking:id/emergency_banner_close" , "screenshotPath" : "booking04/S0/pngs/1300_336_1384_420.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/main_content_holder" , "screenshotPath" : "booking04/S0/pngs/0_785_1440_2125.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/product_container1" , "screenshotPath" : "booking04/S0/pngs/56_504_720_785.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/product_container2" , "screenshotPath" : "booking04/S0/pngs/720_504_1384_785.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/destination_selection_box" , "screenshotPath" : "booking04/S0/pngs/56_1097_1384_1293.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/date_selection_box" , "screenshotPath" : "booking04/S0/pngs/56_1293_1384_1489.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/group_selection_box" , "screenshotPath" : "booking04/S0/pngs/56_1489_1384_1685.png"}
+{ "text" : "Search" , "resource-id" : "com.booking:id/search_search" , "screenshotPath" : "booking04/S0/pngs/70_1692_1370_1873.png"}
+{ "text" : "I'm traveling for work" , "resource-id" : "com.booking:id/travelling_for_work_checkbox" , "screenshotPath" : "booking04/S0/pngs/56_1957_1384_2069.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/view_carousel_header_layout_gallery" , "screenshotPath" : "booking04/S0/pngs/0_2369_1440_2392.png"}

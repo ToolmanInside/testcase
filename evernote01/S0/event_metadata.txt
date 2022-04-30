@@ -1,0 +1,4 @@
+pathToElementImageCrop: evernote01/S0/pngs/70_126_210_266.png;
+coords: {'x1': 70, 'y1': 126, 'x2': 210, 'y2': 266};
+text_identifier: { "text" : "" , "resource-id" : "com.yinxiang:id/home_header_view_avatar" };
+event: click;

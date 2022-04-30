@@ -1,0 +1,5 @@
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/navigation_bar_back_button" , "screenshotPath" : "kindle01/S1/pngs/56_145_140_229.png"}
+{ "text" : "" , "resource-id" : "com.amazon.kindlefc:id/navigation_bar_trash_button" , "screenshotPath" : "kindle01/S1/pngs/1300_145_1384_229.png"}
+{ "text" : "" , "content-desc" : "Back" , "resource-id" : "com.amazon.kindlefc:id/navigation_back_button" , "screenshotPath" : "kindle01/S1/pngs/56_145_140_229.png"}
+{ "text" : "" , "content-desc" : "Delete All" , "resource-id" : "com.amazon.kindlefc:id/navigation_trash_button" , "screenshotPath" : "kindle01/S1/pngs/1300_145_1384_229.png"}
+{ "text" : "" , "content-desc" : "You don't have any notifications right now. Check back soon!" , "resource-id" : "com.amazon.kindlefc:id/refresh_button" , "screenshotPath" : "kindle01/S1/pngs/678_530_762_656.png"}

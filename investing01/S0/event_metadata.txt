@@ -1,0 +1,4 @@
+pathToElementImageCrop: investing01/S0/pngs/1258_84_1426_280.png;
+coords: {'x1': 1258, 'y1': 84, 'x2': 1426, 'y2': 280};
+text_identifier: { "text" : "" , "resource-id" : "com.fusionmedia.investing:id/action_item_3" };
+event: click;

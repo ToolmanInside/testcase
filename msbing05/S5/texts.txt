@@ -1,0 +1,26 @@
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/panel_toolbar" , "screenshotPath" : "msbing05/S5/pngs/0_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_logo_background" , "screenshotPath" : "msbing05/S5/pngs/622_2224_818_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_tabs_count_layout" , "screenshotPath" : "msbing05/S5/pngs/943_2224_1188_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_back_layout" , "screenshotPath" : "msbing05/S5/pngs/0_2224_245_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_more_button" , "screenshotPath" : "msbing05/S5/pngs/1265_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_button" , "screenshotPath" : "msbing05/S5/pngs/28_112_1293_210.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_search_voice" , "screenshotPath" : "msbing05/S5/pngs/1293_126_1398_196.png"}
+{ "text" : "th?id=OJ" , "resource-id" : "closeCorp" , "screenshotPath" : "msbing05/S5/pngs/1302_1260_1375_1344.png"}
+{ "text" : "" , "content-desc" : "th?id=OJ" , "screenshotPath" : "msbing05/S5/pngs/385_1729_1057_1886.png"}
+{ "text" : "th?id=OJ" , "resource-id" : "deleteCorp" , "screenshotPath" : "msbing05/S5/pngs/385_1904_1057_2065.png"}
+{ "text" : "" , "content-desc" : "yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" , "screenshotPath" : "msbing05/S5/pngs/84_868_371_1155.png"}
+{ "text" : "" , "content-desc" : "yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" , "screenshotPath" : "msbing05/S5/pngs/371_868_654_1155.png"}
+{ "text" : "" , "content-desc" : "yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" , "screenshotPath" : "msbing05/S5/pngs/651_868_938_1155.png"}
+{ "text" : "" , "content-desc" : "“复仇者联盟：残局”预计将打破票房纪录 ‘Avengers: Endgame’ Expected to Shatter Box Office..." , "screenshotPath" : "msbing05/S5/pngs/84_1575_1288_1795.png"}
+{ "text" : "" , "content-desc" : "ar-BBWdmgm" , "screenshotPath" : "msbing05/S5/pngs/84_1813_441_2163.png"}
+{ "text" : "th?id=OJ" , "resource-id" : "acceptCorp" , "screenshotPath" : "msbing05/S5/pngs/385_1729_1057_1886.png"}
+{ "text" : "" , "content-desc" : "avenger" , "screenshotPath" : "msbing05/S5/pngs/84_518_430_651.png"}
+{ "text" : "" , "content-desc" : "Kxr1WBwv4JI6v7hqMcr6qZVSC-o" , "screenshotPath" : "msbing05/S5/pngs/339_1218_399_1295.png"}
+{ "text" : "" , "content-desc" : "See More" , "screenshotPath" : "msbing05/S5/pngs/1141_2156_1358_2226.png"}
+{ "text" : "" , "content-desc" : "Click to listen" , "screenshotPath" : "msbing05/S5/pngs/448_651_539_735.png"}
+{ "text" : "" , "content-desc" : "Click to listen" , "screenshotPath" : "msbing05/S5/pngs/934_651_1022_735.png"}
+{ "text" : "" , "content-desc" : "WEB" , "screenshotPath" : "msbing05/S5/pngs/126_280_217_371.png"}
+{ "text" : "" , "content-desc" : "IMAGES" , "screenshotPath" : "msbing05/S5/pngs/294_280_451_371.png"}
+{ "text" : "" , "content-desc" : "VIDEOS" , "screenshotPath" : "msbing05/S5/pngs/532_280_679_371.png"}
+{ "text" : "" , "content-desc" : "ACADEMIC" , "screenshotPath" : "msbing05/S5/pngs/759_280_973_371.png"}
+{ "text" : "" , "content-desc" : "DICT" , "screenshotPath" : "msbing05/S5/pngs/1053_280_1148_371.png"}

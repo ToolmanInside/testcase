@@ -1,0 +1,4 @@
+pathToElementImageCrop: kindle02/S1/pngs/1087_298_1412_466.png;
+coords: {'x1': 1087, 'y1': 298, 'x2': 1412, 'y2': 466};
+text_identifier: { "text" : "" , "resource-id" : "com.amazon.kindlefc:id/top_search_widget_header_shift_container" };
+event: click;

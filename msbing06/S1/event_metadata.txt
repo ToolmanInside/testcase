@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing06/S1/pngs/495_1109_1440_1277.png;
+coords: {'x1': 495, 'y1': 1109, 'x2': 1440, 'y2': 1277};
+text_identifier: { "text" : "Settings" , "resource-id" : "com.microsoft.bing:id/drawer_settings" };
+event: click;

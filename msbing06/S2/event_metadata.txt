@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing06/S2/pngs/1272_351_1384_463.png;
+coords: {'x1': 1272, 'y1': 351, 'x2': 1384, 'y2': 463};
+text_identifier: { "text" : "" , "resource-id" : "android:id/checkbox" };
+event: click;

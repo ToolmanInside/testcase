@@ -1,0 +1,2 @@
+{ "text" : "" , "resource-id" : "android:id/buttonPanel" , "screenshotPath" : "adguard04/S1/pngs/93_1332_1347_1528.png"}
+{ "text" : "CLOSE" , "resource-id" : "android:id/button1" , "screenshotPath" : "adguard04/S1/pngs/1071_1346_1305_1514.png"}

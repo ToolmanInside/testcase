@@ -1,0 +1,15 @@
+{ "text" : "" , "content-desc" : "Open" , "screenshotPath" : "booking04/S3/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Notifications" , "resource-id" : "com.booking:id/mnuNotifications" , "screenshotPath" : "booking04/S3/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "booking04/S3/pngs/1300_98_1440_266.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/search_container_scroll_view" , "screenshotPath" : "booking04/S3/pngs/0_280_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/search_voice_btn" , "screenshotPath" : "booking04/S3/pngs/1195_2112_1391_2308.png"}
+{ "text" : "" , "content-desc" : "Close" , "resource-id" : "com.booking:id/emergency_banner_close" , "screenshotPath" : "booking04/S3/pngs/1300_336_1384_420.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/main_content_holder" , "screenshotPath" : "booking04/S3/pngs/0_1118_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/product_container1" , "screenshotPath" : "booking04/S3/pngs/56_837_720_1118.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/product_container2" , "screenshotPath" : "booking04/S3/pngs/720_837_1384_1118.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/destination_selection_box" , "screenshotPath" : "booking04/S3/pngs/56_1430_1384_1626.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/date_selection_box" , "screenshotPath" : "booking04/S3/pngs/56_1626_1384_1822.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/group_selection_box" , "screenshotPath" : "booking04/S3/pngs/56_1822_1384_2018.png"}
+{ "text" : "Read more" , "resource-id" : "com.booking:id/emergency_banner_action_primary" , "screenshotPath" : "booking04/S3/pngs/56_613_350_781.png"}
+{ "text" : "Search" , "resource-id" : "com.booking:id/search_search" , "screenshotPath" : "booking04/S3/pngs/70_2025_1370_2206.png"}
+{ "text" : "I'm traveling for work" , "resource-id" : "com.booking:id/travelling_for_work_checkbox" , "screenshotPath" : "booking04/S3/pngs/56_2290_1384_2392.png"}

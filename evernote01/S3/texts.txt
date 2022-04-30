@@ -1,0 +1,6 @@
+{ "text" : "" , "resource-id" : "com.yinxiang:id/publish_note_btn" , "screenshotPath" : "evernote01/S3/pngs/94_2119_1347_2392.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/open_note_rv" , "screenshotPath" : "evernote01/S3/pngs/0_84_1440_1856.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/background" , "screenshotPath" : "evernote01/S3/pngs/0_84_1440_650.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/scrollable_toolbar" , "screenshotPath" : "evernote01/S3/pngs/0_84_1440_280.png"}
+{ "text" : "Edit" , "resource-id" : "com.yinxiang:id/edit" , "screenshotPath" : "evernote01/S3/pngs/1300_591_1384_657.png"}
+{ "text" : "" , "content-desc" : "Share" , "resource-id" : "com.yinxiang:id/share" , "screenshotPath" : "evernote01/S3/pngs/1272_98_1440_266.png"}

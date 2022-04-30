@@ -1,0 +1,15 @@
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_home_camera_search" , "screenshotPath" : "msbing01/S0/pngs/936_112_1076_252.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/search_homepage_tabs" , "screenshotPath" : "msbing01/S0/pngs/1076_112_1216_252.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/search_homepage_hamburger" , "screenshotPath" : "msbing01/S0/pngs/1216_112_1356_252.png"}
+{ "text" : "" , "content-desc" : "Daily image from Bing" , "resource-id" : "com.microsoft.bing:id/search_homepage_default" , "screenshotPath" : "msbing01/S0/pngs/0_0_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_home_scroll_view" , "screenshotPath" : "msbing01/S0/pngs/0_0_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/search_homepage_pager" , "screenshotPath" : "msbing01/S0/pngs/0_0_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/search_box" , "screenshotPath" : "msbing01/S0/pngs/126_665_1314_833.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_home_voice_search" , "screenshotPath" : "msbing01/S0/pngs/1216_679_1356_819.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/wallpaper_transparent_view" , "screenshotPath" : "msbing01/S0/pngs/0_0_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/switch_text_container" , "screenshotPath" : "msbing01/S0/pngs/219_945_1221_1086.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_home_bookmark_button" , "screenshotPath" : "msbing01/S0/pngs/0_2238_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Images" , "resource-id" : "com.microsoft.bing:id/hp_scope_images" , "screenshotPath" : "msbing01/S0/pngs/70_1884_238_2052.png"}
+{ "text" : "" , "content-desc" : "Videos" , "resource-id" : "com.microsoft.bing:id/hp_scope_videos" , "screenshotPath" : "msbing01/S0/pngs/266_1884_434_2052.png"}
+{ "text" : "" , "content-desc" : "Dict" , "resource-id" : "com.microsoft.bing:id/hp_scope_dict" , "screenshotPath" : "msbing01/S0/pngs/462_1884_630_2052.png"}
+{ "text" : "" , "content-desc" : "Academic" , "resource-id" : "com.microsoft.bing:id/hp_scope_academic" , "screenshotPath" : "msbing01/S0/pngs/658_1884_826_2052.png"}

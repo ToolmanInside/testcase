@@ -1,0 +1,17 @@
+{ "text" : "" , "content-desc" : "Save" , "screenshotPath" : "evernote05/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Undo" , "resource-id" : "com.yinxiang:id/undo_btn" , "screenshotPath" : "evernote05/S2/pngs/404_98_572_266.png"}
+{ "text" : "" , "content-desc" : "Redo" , "resource-id" : "com.yinxiang:id/redo_btn" , "screenshotPath" : "evernote05/S2/pngs/572_98_740_266.png"}
+{ "text" : "" , "content-desc" : "Formatting" , "resource-id" : "com.yinxiang:id/format_btn" , "screenshotPath" : "evernote05/S2/pngs/740_98_908_266.png"}
+{ "text" : "" , "content-desc" : "Add to note" , "resource-id" : "com.yinxiang:id/attach_btn" , "screenshotPath" : "evernote05/S2/pngs/908_98_1076_266.png"}
+{ "text" : "" , "content-desc" : "Add to note" , "resource-id" : "com.yinxiang:id/last_attachment_btn" , "screenshotPath" : "evernote05/S2/pngs/1076_98_1244_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "evernote05/S2/pngs/1244_84_1440_280.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/note_content" , "screenshotPath" : "evernote05/S2/pngs/0_280_1440_1359.png"}
+{ "text" : "Note Title" , "resource-id" : "com.yinxiang:id/title" , "screenshotPath" : "evernote05/S2/pngs/56_280_1384_448.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/notebook_info" , "screenshotPath" : "evernote05/S2/pngs/56_490_985_574.png"}
+{ "text" : "
+" , "resource-id" : "en-note" , "screenshotPath" : "evernote05/S2/pngs/0_623_1440_766.png"}
+{ "text" : "" , "content-desc" : "Notebook" , "resource-id" : "com.yinxiang:id/note_location_thumbnail" , "screenshotPath" : "evernote05/S2/pngs/56_490_140_574.png"}
+{ "text" : "≹" , "resource-id" : "com.yinxiang:id/reminder_button" , "screenshotPath" : "evernote05/S2/pngs/985_483_1083_581.png"}
+{ "text" : "≺" , "resource-id" : "com.yinxiang:id/tag_button" , "screenshotPath" : "evernote05/S2/pngs/1139_483_1237_581.png"}
+{ "text" : "≷" , "resource-id" : "com.yinxiang:id/note_info_button" , "screenshotPath" : "evernote05/S2/pngs/1293_483_1391_581.png"}
+{ "text" : "我的第一个笔记本" , "resource-id" : "com.yinxiang:id/notebook_name" , "screenshotPath" : "evernote05/S2/pngs/140_490_648_574.png"}

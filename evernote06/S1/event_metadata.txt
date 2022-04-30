@@ -1,0 +1,4 @@
+pathToElementImageCrop: evernote06/S1/pngs/1230_84_1440_280.png;
+coords: {'x1': 1230, 'y1': 84, 'x2': 1440, 'y2': 280};
+text_identifier: { "text" : "" , "resource-id" : "com.yinxiang:id/mine_msg_container" };
+event: click;

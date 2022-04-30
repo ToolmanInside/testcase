@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing05/S0/pngs/70_1884_238_2052.png;
+coords: {'x1': 70, 'y1': 1884, 'x2': 238, 'y2': 2052};
+text_identifier: { "text" : "" , "content-desc" : "Images" , "resource-id" : "com.microsoft.bing:id/hp_scope_images" };
+event: click;

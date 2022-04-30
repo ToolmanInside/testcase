@@ -1,0 +1,16 @@
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/panel_toolbar" , "screenshotPath" : "msbing05/S7/pngs/0_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_logo_background" , "screenshotPath" : "msbing05/S7/pngs/622_2224_818_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_tabs_count_layout" , "screenshotPath" : "msbing05/S7/pngs/943_2224_1188_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_back_layout" , "screenshotPath" : "msbing05/S7/pngs/0_2224_245_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_toolbar_more_button" , "screenshotPath" : "msbing05/S7/pngs/1265_2224_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_button" , "screenshotPath" : "msbing05/S7/pngs/28_112_1293_210.png"}
+{ "text" : "" , "resource-id" : "com.microsoft.bing:id/opal_header_search_voice" , "screenshotPath" : "msbing05/S7/pngs/1293_126_1398_196.png"}
+{ "text" : "" , "content-desc" : "WEB" , "screenshotPath" : "msbing05/S7/pngs/126_280_217_367.png"}
+{ "text" : "" , "content-desc" : "IMAGES" , "screenshotPath" : "msbing05/S7/pngs/294_280_451_367.png"}
+{ "text" : "" , "content-desc" : "VIDEOS" , "screenshotPath" : "msbing05/S7/pngs/532_280_679_367.png"}
+{ "text" : "" , "content-desc" : "ACADEMIC" , "screenshotPath" : "msbing05/S7/pngs/759_280_973_367.png"}
+{ "text" : "" , "content-desc" : "DICT" , "screenshotPath" : "msbing05/S7/pngs/1053_280_1148_367.png"}
+{ "text" : "" , "content-desc" : "Personas for Artificial Intelligence (AI) an Open Source Toolbox" , "screenshotPath" : "msbing05/S7/pngs/49_672_1218_812.png"}
+{ "text" : "" , "content-desc" : "A Survey of Data-Driven and Knowledge-Aware eXplainable AI" , "screenshotPath" : "msbing05/S7/pngs/49_1032_1207_1172.png"}
+{ "text" : "" , "content-desc" : "Can Computers Outperform Humans in Detecting User Zone-Outs? Implications for Intelligent Interfaces" , "screenshotPath" : "msbing05/S7/pngs/49_1393_1277_1603.png"}
+{ "text" : "" , "content-desc" : "A Computer Science Perspective on Digital Transformation in Production" , "screenshotPath" : "msbing05/S7/pngs/49_1820_1116_1963.png"}

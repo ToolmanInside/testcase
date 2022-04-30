@@ -1,0 +1,4 @@
+pathToElementImageCrop: evernote01/S1/pngs/1272_98_1440_266.png;
+coords: {'x1': 1272, 'y1': 98, 'x2': 1440, 'y2': 266};
+text_identifier: { "text" : "" , "content-desc" : "Share" , "resource-id" : "com.yinxiang:id/share" };
+event: click;

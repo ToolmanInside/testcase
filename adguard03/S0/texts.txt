@@ -1,0 +1,11 @@
+{ "text" : "HTTPS Filtering is off" , "resource-id" : "com.adguard.android:id/snackbar_text" , "screenshotPath" : "adguard03/S0/pngs/42_2210_1105_2392.png"}
+{ "text" : "TURN ON" , "resource-id" : "com.adguard.android:id/snackbar_action" , "screenshotPath" : "adguard03/S0/pngs/1105_2217_1398_2385.png"}
+{ "text" : "" , "content-desc" : "‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‎‎‎‎‏‏‏‏‏‏‏‎‏‏‏‏‏‎‏‎‎‏‏‎‏‎‎‎‎‎‏‏‏‎‏‎‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‏‏‏‏‏‎‎Navigate up‎‏‎‎‏‎" , "screenshotPath" : "adguard03/S0/pngs/0_84_196_280.png"}
+{ "text" : "Since April 27, 2022 12:00 AM" , "resource-id" : "com.adguard.android:id/stats_date_time" , "screenshotPath" : "adguard03/S0/pngs/357_1330_1082_1452.png"}
+{ "text" : "" , "content-desc" : "Check for Updates" , "resource-id" : "com.adguard.android:id/updateFiltersMenuItem" , "screenshotPath" : "adguard03/S0/pngs/1272_98_1440_266.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/stats_layout_ads" , "screenshotPath" : "adguard03/S0/pngs/0_1452_1440_1648.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/stats_layout_trackers" , "screenshotPath" : "adguard03/S0/pngs/0_1652_1440_1848.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/stats_layout_threats" , "screenshotPath" : "adguard03/S0/pngs/0_1852_1440_2048.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/stats_layout_data" , "screenshotPath" : "adguard03/S0/pngs/0_2052_1440_2248.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/protection_level_wrapper" , "screenshotPath" : "adguard03/S0/pngs/0_2252_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.adguard.android:id/switch_item" , "screenshotPath" : "adguard03/S0/pngs/528_601_913_853.png"}

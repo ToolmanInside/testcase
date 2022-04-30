@@ -1,0 +1,4 @@
+pathToElementImageCrop: investing02/S0/pngs/0_631_1440_819.png;
+coords: {'x1': 0, 'y1': 631, 'x2': 1440, 'y2': 819};
+text_identifier: { "text" : "" , "text" : "" , "resource-id" : "com.fusionmedia.investing:id/components_quote" , "text" : "" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msbing05/S4/pngs/462_1884_630_2052.png;
+coords: {'x1': 462, 'y1': 1884, 'x2': 630, 'y2': 2052};
+text_identifier: { "text" : "" , "content-desc" : "Dict" , "resource-id" : "com.microsoft.bing:id/hp_scope_dict" };
+event: click;

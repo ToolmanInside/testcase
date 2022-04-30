@@ -1,0 +1,8 @@
+{ "text" : "" , "resource-id" : "com.yinxiang:id/maintab_menu" , "screenshotPath" : "evernote04/S2/pngs/622_2175_818_2371.png"}
+{ "text" : "Home" , "resource-id" : "com.yinxiang:id/maintab_p0" , "screenshotPath" : "evernote04/S2/pngs/0_2219_288_2389.png"}
+{ "text" : "Search" , "resource-id" : "com.yinxiang:id/maintab_p1" , "screenshotPath" : "evernote04/S2/pngs/288_2219_576_2389.png"}
+{ "text" : "EverHub" , "resource-id" : "com.yinxiang:id/maintab_p2" , "screenshotPath" : "evernote04/S2/pngs/864_2219_1152_2389.png"}
+{ "text" : "My" , "resource-id" : "com.yinxiang:id/maintab_p3" , "screenshotPath" : "evernote04/S2/pngs/1152_2219_1440_2389.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/note_list_listview" , "screenshotPath" : "evernote04/S2/pngs/0_280_1440_2217.png"}
+{ "text" : "LEARN MORE" , "resource-id" : "com.yinxiang:id/learn_more_search_attachments_text_view" , "screenshotPath" : "evernote04/S2/pngs/513_1585_927_1763.png"}
+{ "text" : "Search your notes" , "resource-id" : "com.yinxiang:id/search" , "screenshotPath" : "evernote04/S2/pngs/168_119_1342_245.png"}

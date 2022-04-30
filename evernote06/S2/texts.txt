@@ -1,0 +1,8 @@
+{ "text" : "" , "resource-id" : "com.yinxiang:id/profile_message_indicator" , "screenshotPath" : "evernote06/S2/pngs/0_280_1440_448.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/profile_message_view_pager" , "screenshotPath" : "evernote06/S2/pngs/0_483_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "evernote06/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Manage Link" , "resource-id" : "com.yinxiang:id/profile_clear_unread" , "screenshotPath" : "evernote06/S2/pngs/1076_98_1244_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "evernote06/S2/pngs/1244_84_1440_280.png"}
+{ "text" : "" , "content-desc" : "Notifications" , "screenshotPath" : "evernote06/S2/pngs/0_280_720_448.png"}
+{ "text" : "" , "content-desc" : "Work Chat" , "screenshotPath" : "evernote06/S2/pngs/720_280_1440_448.png"}
+{ "text" : "" , "resource-id" : "com.yinxiang:id/profile_my_message_list" , "screenshotPath" : "evernote06/S2/pngs/0_483_1440_1391.png"}

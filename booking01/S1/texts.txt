@@ -1,0 +1,2 @@
+{ "text" : "" , "resource-id" : "com.booking:id/notification_area_action_bar" , "screenshotPath" : "booking01/S1/pngs/0_98_1440_266.png"}
+{ "text" : "" , "resource-id" : "com.booking:id/notification_area_fake_menu_item" , "screenshotPath" : "booking01/S1/pngs/1132_98_1300_266.png"}
