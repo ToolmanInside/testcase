@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "investing01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.fusionmedia.investing:id/action_item_3"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.fusionmedia.investing:id/action_item_1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "booking02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.booking:id/emergency_banner_close"
+                }
+            ]
+        }
+    ]
+}

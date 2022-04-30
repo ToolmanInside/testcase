@@ -1,0 +1,27 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "kindle01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.amazon.kindlefc:id/search_box"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.amazon.kindlefc:id/top_search_widget_header_shift_container"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

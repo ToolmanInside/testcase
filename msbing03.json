@@ -1,0 +1,22 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msbing03",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/hp_scope_dict"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

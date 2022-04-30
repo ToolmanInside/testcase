@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "evernote05",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yinxiang:id/maintab_menu"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yinxiang:id/maintab_menu_new_note"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

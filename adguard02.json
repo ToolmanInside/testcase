@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "adguard02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/updateFilterMenuItem"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/dns_filters_update"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/switch_item"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/switch_item"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/switch_item"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

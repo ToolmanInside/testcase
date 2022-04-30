@@ -1,0 +1,46 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msbing05",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/hp_scope_images"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/hp_scope_videos"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/hp_scope_dict"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/hp_scope_academic"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

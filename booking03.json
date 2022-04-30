@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "booking03",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.booking:id/search_voice_btn"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.permissioncontroller:id/permission_allow_one_time_button"
+                }
+            ]
+        }
+    ]
+}

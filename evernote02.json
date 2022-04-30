@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "evernote02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yinxiang:id/home_header_view_avatar"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yinxiang:id/edit"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

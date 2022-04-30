@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "adguard04",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/snackbar_action"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/button1"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/switch_item"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.adguard.android:id/switch_item"
+                }
+            ]
+        }
+    ]
+}

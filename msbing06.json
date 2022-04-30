@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msbing06",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/search_homepage_hamburger"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.microsoft.bing:id/drawer_settings"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/checkbox"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

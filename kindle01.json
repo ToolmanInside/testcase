@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "kindle01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.amazon.kindlefc:id/landing_screen_action"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.amazon.kindlefc:id/navigation_bar_back_button"
+                }
+            ]
+        }
+    ]
+}
