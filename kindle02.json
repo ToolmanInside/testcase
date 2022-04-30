@@ -6,7 +6,7 @@
     },
     "tests": [
         {
-            "name": "kindle01",
+            "name": "kindle02",
             "events": [
                 {
                     "type": "id",
