@@ -16,7 +16,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.android.documentsui:id/sub_menu_list"
+                    "tag": "com.android.documentsui:id/sub_menu_grid"
                 }
             ]
         }
