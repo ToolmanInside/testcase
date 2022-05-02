@@ -11,7 +11,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "de.westnordost.streetcomplete:id/fab_container"
+                    "tag": "com.faltenreich.diaguard:id/fab_container"
                 },
                 {
                     "event": "back"

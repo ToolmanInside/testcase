@@ -11,12 +11,12 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "de.westnordost.streetcomplete:id/action_search"
+                    "tag": "com.faltenreich.diaguard:id/action_search"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "de.westnordost.streetcomplete:id/back_button"
+                    "tag": "com.faltenreich.diaguard:id/back_button"
                 }
             ]
         }
