@@ -16,7 +16,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.duckduckgo.mobile.android:id/settingPopupMenuItem"
+                    "tag": "com.duckduckgo.mobile.android:id/settingsPopupMenuItem"
                 },
                 {
                     "type": "id",

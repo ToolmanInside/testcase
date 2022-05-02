@@ -16,11 +16,6 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.duckduckgo.mobile.android:id/newTab"
-                },
-                {
-                    "type": "id",
-                    "event": "click",
                     "tag": "com.duckduckgo.mobile.android:id/clearAllOption"
                 }
             ]
