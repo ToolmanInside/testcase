@@ -1,0 +1,4 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "streetcomplete03/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "resource-id" : "de.westnordost.streetcomplete:id/recycler_view" , "screenshotPath" : "streetcomplete03/S2/pngs/0_280_1440_2392.png"}
+{ "text" : "" , "resource-id" : "android:id/switch_widget" , "screenshotPath" : "streetcomplete03/S2/pngs/1218_1477_1384_1572.png"}
+{ "text" : "" , "resource-id" : "android:id/switch_widget" , "screenshotPath" : "streetcomplete03/S2/pngs/1218_1698_1384_1793.png"}

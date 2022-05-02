@@ -1,0 +1,5 @@
+{ "text" : "My Profile" , "resource-id" : "de.westnordost.streetcomplete:id/profileButton" , "screenshotPath" : "streetcomplete03/S1/pngs/216_782_720_1138.png"}
+{ "text" : "Team Mode" , "resource-id" : "de.westnordost.streetcomplete:id/enableTeamModeButton" , "screenshotPath" : "streetcomplete03/S1/pngs/720_782_1224_1138.png"}
+{ "text" : "Settings" , "resource-id" : "de.westnordost.streetcomplete:id/settingsButton" , "screenshotPath" : "streetcomplete03/S1/pngs/216_1138_720_1494.png"}
+{ "text" : "About" , "resource-id" : "de.westnordost.streetcomplete:id/aboutButton" , "screenshotPath" : "streetcomplete03/S1/pngs/720_1138_1224_1494.png"}
+{ "text" : "Scan for quests here" , "resource-id" : "de.westnordost.streetcomplete:id/downloadButton" , "screenshotPath" : "streetcomplete03/S1/pngs/216_1526_1224_1694.png"}

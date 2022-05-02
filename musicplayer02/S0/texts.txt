@@ -1,0 +1,12 @@
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/main_tabs_holder" , "screenshotPath" : "musicplayer02/S0/pngs/0_280_1440_448.png"}
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/viewpager" , "screenshotPath" : "musicplayer02/S0/pngs/0_448_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.simplemobiletools.musicplayer:id/search" , "screenshotPath" : "musicplayer02/S0/pngs/964_98_1132_266.png"}
+{ "text" : "" , "content-desc" : "Sort by" , "resource-id" : "com.simplemobiletools.musicplayer:id/sort" , "screenshotPath" : "musicplayer02/S0/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "musicplayer02/S0/pngs/1300_98_1440_266.png"}
+{ "text" : "" , "content-desc" : "Playlists" , "screenshotPath" : "musicplayer02/S0/pngs/0_280_333_448.png"}
+{ "text" : "" , "content-desc" : "Folders" , "screenshotPath" : "musicplayer02/S0/pngs/333_280_626_448.png"}
+{ "text" : "" , "content-desc" : "Artists" , "screenshotPath" : "musicplayer02/S0/pngs/626_280_907_448.png"}
+{ "text" : "" , "content-desc" : "Albums" , "screenshotPath" : "musicplayer02/S0/pngs/907_280_1187_448.png"}
+{ "text" : "" , "content-desc" : "Tracks" , "screenshotPath" : "musicplayer02/S0/pngs/1187_280_1440_448.png"}
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/playlists_list" , "screenshotPath" : "musicplayer02/S0/pngs/0_448_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/playlist_frame" , "screenshotPath" : "musicplayer02/S0/pngs/0_448_1440_711.png"}

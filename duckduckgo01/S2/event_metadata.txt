@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo01/S2/pngs/0_734_1440_885.png;
+coords: {'x1': 0, 'y1': 734, 'x2': 1440, 'y2': 885};
+text_identifier: { "text" : "Autocomplete Suggestions" , "resource-id" : "com.duckduckgo.mobile.android:id/autocompleteToggle" };
+event: click;

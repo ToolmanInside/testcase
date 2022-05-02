@@ -1,0 +1,4 @@
+pathToElementImageCrop: streetcomplete04/S1/pngs/1230_1895_1440_2105.png;
+coords: {'x1': 1230, 'y1': 1895, 'x2': 1440, 'y2': 2105};
+text_identifier: { "text" : "" , "content-desc" : "Zoom out" , "resource-id" : "de.westnordost.streetcomplete:id/zoomOutButton" };
+event: click;

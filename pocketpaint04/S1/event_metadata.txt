@@ -1,0 +1,4 @@
+pathToElementImageCrop: pocketpaint04/S1/pngs/28_2049_224_2217.png;
+coords: {'x1': 28, 'y1': 2049, 'x2': 224, 'y2': 2217};
+text_identifier: { "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle" };
+event: click;

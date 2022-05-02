@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo05/S1/pngs/0_1936_1440_2164.png;
+coords: {'x1': 0, 'y1': 1936, 'x2': 1440, 'y2': 2164};
+text_identifier: { "text" : "Clear All Tabs And Data" , "resource-id" : "com.duckduckgo.mobile.android:id/clearAllOption" };
+event: click;

@@ -1,0 +1,4 @@
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/recycler" , "screenshotPath" : "duckduckgo02/S2/pngs/0_280_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "duckduckgo02/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Add Folder" , "resource-id" : "com.duckduckgo.mobile.android:id/action_add_folder" , "screenshotPath" : "duckduckgo02/S2/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "duckduckgo02/S2/pngs/1300_98_1440_266.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: streetcomplete02/S0/pngs/1230_2105_1440_2315.png;
+coords: {'x1': 1230, 'y1': 2105, 'x2': 1440, 'y2': 2315};
+text_identifier: { "text" : "" , "content-desc" : "Follow me" , "resource-id" : "de.westnordost.streetcomplete:id/gpsTrackingButton" };
+event: click;

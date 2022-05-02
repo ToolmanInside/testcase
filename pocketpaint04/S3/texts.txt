@@ -1,0 +1,21 @@
+{ "text" : "" , "content-desc" : "Undo" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_btn_top_undo" , "screenshotPath" : "pocketpaint04/S3/pngs/964_98_1132_266.png"}
+{ "text" : "" , "content-desc" : "Redo" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_btn_top_redo" , "screenshotPath" : "pocketpaint04/S3/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "pocketpaint04/S3/pngs/1300_98_1440_266.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_brush" , "screenshotPath" : "pocketpaint04/S3/pngs/0_1153_360_1321.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_hand" , "screenshotPath" : "pocketpaint04/S3/pngs/360_1153_720_1321.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_eraser" , "screenshotPath" : "pocketpaint04/S3/pngs/720_1153_1080_1321.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_line" , "screenshotPath" : "pocketpaint04/S3/pngs/1080_1153_1440_1321.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_rectangle" , "screenshotPath" : "pocketpaint04/S3/pngs/0_1433_360_1601.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_fill" , "screenshotPath" : "pocketpaint04/S3/pngs/360_1433_720_1601.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_spray_can" , "screenshotPath" : "pocketpaint04/S3/pngs/720_1433_1080_1601.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_cursor" , "screenshotPath" : "pocketpaint04/S3/pngs/1080_1433_1440_1601.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_text" , "screenshotPath" : "pocketpaint04/S3/pngs/0_1713_360_1881.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_stamp" , "screenshotPath" : "pocketpaint04/S3/pngs/360_1713_720_1881.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_transform" , "screenshotPath" : "pocketpaint04/S3/pngs/720_1713_1080_1881.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_import" , "screenshotPath" : "pocketpaint04/S3/pngs/1080_1713_1440_1881.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_pipette" , "screenshotPath" : "pocketpaint04/S3/pngs/0_1993_720_2161.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_watercolor" , "screenshotPath" : "pocketpaint04/S3/pngs/720_1993_1440_2161.png"}
+{ "text" : "" , "content-desc" : "Tools" , "resource-id" : "org.catrobat.paintroid:id/action_tools" , "screenshotPath" : "pocketpaint04/S3/pngs/0_2217_360_2392.png"}
+{ "text" : "" , "content-desc" : "Brush" , "resource-id" : "org.catrobat.paintroid:id/action_current_tool" , "screenshotPath" : "pocketpaint04/S3/pngs/360_2217_720_2392.png"}
+{ "text" : "" , "content-desc" : "Color" , "resource-id" : "org.catrobat.paintroid:id/action_color_picker" , "screenshotPath" : "pocketpaint04/S3/pngs/720_2217_1080_2392.png"}
+{ "text" : "" , "content-desc" : "Layers" , "resource-id" : "org.catrobat.paintroid:id/action_layers" , "screenshotPath" : "pocketpaint04/S3/pngs/1080_2217_1440_2392.png"}

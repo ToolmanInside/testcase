@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies03/S0/pngs/56_731_252_927.png;
+coords: {'x1': 56, 'y1': 731, 'x2': 252, 'y2': 927};
+text_identifier: { "text" : "" , "content-desc" : "toggle currencies" , "resource-id" : "de.salomax.currencies:id/btn_toggle" };
+event: click;

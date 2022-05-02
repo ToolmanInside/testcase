@@ -1,0 +1,3 @@
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/touch_outside" , "screenshotPath" : "duckduckgo05/S1/pngs/0_84_1440_2392.png"}
+{ "text" : "Clear All Tabs And Data" , "resource-id" : "com.duckduckgo.mobile.android:id/clearAllOption" , "screenshotPath" : "duckduckgo05/S1/pngs/0_1936_1440_2164.png"}
+{ "text" : "Cancel" , "resource-id" : "com.duckduckgo.mobile.android:id/cancelOption" , "screenshotPath" : "duckduckgo05/S1/pngs/0_2164_1440_2392.png"}

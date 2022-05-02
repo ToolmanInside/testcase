@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo04/S1/pngs/0_2164_1440_2392.png;
+coords: {'x1': 0, 'y1': 2164, 'x2': 1440, 'y2': 2476};
+text_identifier: { "text" : "Cancel" , "resource-id" : "com.duckduckgo.mobile.android:id/cancelOption" };
+event: click;

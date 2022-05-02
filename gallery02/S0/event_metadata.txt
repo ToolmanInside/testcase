@@ -1,0 +1,4 @@
+pathToElementImageCrop: gallery02/S0/pngs/796_98_964_266.png;
+coords: {'x1': 796, 'y1': 98, 'x2': 964, 'y2': 266};
+text_identifier: { "text" : "" , "content-desc" : "Search" , "resource-id" : "com.simplemobiletools.gallery.pro:id/search" };
+event: click;

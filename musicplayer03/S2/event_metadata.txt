@@ -1,0 +1,4 @@
+pathToElementImageCrop: musicplayer03/S2/pngs/93_1393_1347_1515.png;
+coords: {'x1': 93, 'y1': 1393, 'x2': 1347, 'y2': 1515};
+text_identifier: { "text" : "Descending" , "resource-id" : "com.simplemobiletools.musicplayer:id/sorting_dialog_radio_descending" };
+event: click;

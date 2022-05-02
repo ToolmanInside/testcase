@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies02/S0/pngs/0_461_601_676.png;
+coords: {'x1': 0, 'y1': 461, 'x2': 601, 'y2': 676};
+text_identifier: { "text" : "" , "resource-id" : "de.salomax.currencies:id/spinnerFrom" };
+event: click;

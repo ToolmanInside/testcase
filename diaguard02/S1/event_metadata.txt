@@ -1,0 +1,4 @@
+pathToElementImageCrop: diaguard02/S1/pngs/28_112_196_280.png;
+coords: {'x1': 28, 'y1': 112, 'x2': 196, 'y2': 280};
+text_identifier: { "text" : "" , "content-desc" : "Back" , "resource-id" : "com.faltenreich.diaguard:id/back_button" };
+event: click;

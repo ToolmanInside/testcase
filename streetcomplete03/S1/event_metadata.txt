@@ -1,0 +1,4 @@
+pathToElementImageCrop: streetcomplete03/S1/pngs/216_1138_720_1494.png;
+coords: {'x1': 216, 'y1': 1138, 'x2': 720, 'y2': 1494};
+text_identifier: { "text" : "Settings" , "resource-id" : "de.westnordost.streetcomplete:id/settingsButton" };
+event: click;

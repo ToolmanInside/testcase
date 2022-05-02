@@ -1,0 +1,6 @@
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/buttonPanel" , "screenshotPath" : "pocketpaint04/S5/pngs/121_1861_1319_2057.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/color_picker_base_layout" , "screenshotPath" : "pocketpaint04/S5/pngs/121_419_1319_1861.png"}
+{ "text" : "CANCEL" , "resource-id" : "android:id/button2" , "screenshotPath" : "pocketpaint04/S5/pngs/755_1875_1025_2043.png"}
+{ "text" : "APPLY" , "resource-id" : "android:id/button1" , "screenshotPath" : "pocketpaint04/S5/pngs/1053_1875_1277_2043.png"}
+{ "text" : "PIPETTE" , "resource-id" : "org.catrobat.paintroid:id/color_picker_pipette_btn" , "screenshotPath" : "pocketpaint04/S5/pngs/829_479_1263_647.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/color_picker_colorview_tabColors" , "screenshotPath" : "pocketpaint04/S5/pngs/163_756_1277_1763.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: pocketpaint03/S1/pngs/1053_1875_1277_2043.png;
+coords: {'x1': 1053, 'y1': 1875, 'x2': 1277, 'y2': 2043};
+text_identifier: { "text" : "APPLY" , "resource-id" : "android:id/button1" };
+event: click;

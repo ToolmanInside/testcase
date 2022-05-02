@@ -1,0 +1,8 @@
+{ "text" : "" , "content-desc" : "Open Navigator" , "screenshotPath" : "diaguard02/S0/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "New entry" , "resource-id" : "com.faltenreich.diaguard:id/fab_container" , "screenshotPath" : "diaguard02/S0/pngs/1152_2090_1384_2336.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.faltenreich.diaguard:id/action_search" , "screenshotPath" : "diaguard02/S0/pngs/1272_98_1440_266.png"}
+{ "text" : "" , "content-desc" : "Latest" , "resource-id" : "com.faltenreich.diaguard:id/latest_layout" , "screenshotPath" : "diaguard02/S0/pngs/56_308_1384_624.png"}
+{ "text" : "" , "content-desc" : "HbA1c" , "resource-id" : "com.faltenreich.diaguard:id/hba1c_layout" , "screenshotPath" : "diaguard02/S0/pngs/56_1212_1384_1410.png"}
+{ "text" : "" , "content-desc" : "Trend" , "resource-id" : "com.faltenreich.diaguard:id/trend_layout" , "screenshotPath" : "diaguard02/S0/pngs/56_1417_1384_1947.png"}
+{ "text" : "" , "content-desc" : "Today" , "resource-id" : "com.faltenreich.diaguard:id/today_layout" , "screenshotPath" : "diaguard02/S0/pngs/56_631_716_1205.png"}
+{ "text" : "" , "content-desc" : "Average" , "resource-id" : "com.faltenreich.diaguard:id/average_layout" , "screenshotPath" : "diaguard02/S0/pngs/724_631_1384_1205.png"}

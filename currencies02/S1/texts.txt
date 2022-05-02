@@ -1,0 +1,13 @@
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/buttonPanel" , "screenshotPath" : "currencies02/S1/pngs/93_2139_1347_2335.png"}
+{ "text" : "Cancel" , "resource-id" : "android:id/button2" , "screenshotPath" : "currencies02/S1/pngs/1067_2153_1305_2321.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/listView" , "screenshotPath" : "currencies02/S1/pngs/93_336_1347_2139.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/searchView" , "screenshotPath" : "currencies02/S1/pngs/93_168_1179_336.png"}
+{ "text" : "" , "content-desc" : "Show only starred currencies." , "resource-id" : "de.salomax.currencies:id/btn_toggle_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_182_1319_322.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_392_1319_532.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_644_1319_784.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_896_1319_1036.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_1148_1319_1288.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_1400_1319_1540.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_1652_1319_1792.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_fav" , "screenshotPath" : "currencies02/S1/pngs/1179_1904_1319_2044.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/search_src_text" , "screenshotPath" : "currencies02/S1/pngs/261_187_1151_313.png"}

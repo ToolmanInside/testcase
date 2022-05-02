@@ -1,0 +1,26 @@
+{ "text" : "" , "content-desc" : "Exchange rate chart" , "resource-id" : "de.salomax.currencies:id/timeline" , "screenshotPath" : "currencies04/S0/pngs/964_112_1132_280.png"}
+{ "text" : "" , "content-desc" : "Historical rates" , "resource-id" : "de.salomax.currencies:id/date_picker" , "screenshotPath" : "currencies04/S0/pngs/1132_112_1300_280.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "currencies04/S0/pngs/1300_112_1440_280.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/spinnerFrom" , "screenshotPath" : "currencies04/S0/pngs/0_461_601_676.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/scrollViewTextFrom" , "screenshotPath" : "currencies04/S0/pngs/601_461_1440_676.png"}
+{ "text" : "" , "content-desc" : "toggle currencies" , "resource-id" : "de.salomax.currencies:id/btn_toggle" , "screenshotPath" : "currencies04/S0/pngs/56_731_252_927.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/spinnerTo" , "screenshotPath" : "currencies04/S0/pngs/0_982_590_1197.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/scrollViewTextTo" , "screenshotPath" : "currencies04/S0/pngs/590_982_1440_1197.png"}
+{ "text" : "7" , "resource-id" : "de.salomax.currencies:id/btn_7" , "screenshotPath" : "currencies04/S0/pngs/0_1350_360_1611.png"}
+{ "text" : "8" , "resource-id" : "de.salomax.currencies:id/btn_8" , "screenshotPath" : "currencies04/S0/pngs/360_1350_720_1611.png"}
+{ "text" : "9" , "resource-id" : "de.salomax.currencies:id/btn_9" , "screenshotPath" : "currencies04/S0/pngs/720_1350_1080_1611.png"}
+{ "text" : "÷" , "resource-id" : "de.salomax.currencies:id/btn_divide" , "screenshotPath" : "currencies04/S0/pngs/1080_1350_1440_1611.png"}
+{ "text" : "4" , "resource-id" : "de.salomax.currencies:id/btn_4" , "screenshotPath" : "currencies04/S0/pngs/0_1611_360_1871.png"}
+{ "text" : "5" , "resource-id" : "de.salomax.currencies:id/btn_5" , "screenshotPath" : "currencies04/S0/pngs/360_1611_720_1871.png"}
+{ "text" : "6" , "resource-id" : "de.salomax.currencies:id/btn_6" , "screenshotPath" : "currencies04/S0/pngs/720_1611_1080_1871.png"}
+{ "text" : "×" , "resource-id" : "de.salomax.currencies:id/btn_multiply" , "screenshotPath" : "currencies04/S0/pngs/1080_1611_1440_1871.png"}
+{ "text" : "1" , "resource-id" : "de.salomax.currencies:id/btn_1" , "screenshotPath" : "currencies04/S0/pngs/0_1871_360_2132.png"}
+{ "text" : "2" , "resource-id" : "de.salomax.currencies:id/btn_2" , "screenshotPath" : "currencies04/S0/pngs/360_1871_720_2132.png"}
+{ "text" : "3" , "resource-id" : "de.salomax.currencies:id/btn_3" , "screenshotPath" : "currencies04/S0/pngs/720_1871_1080_2132.png"}
+{ "text" : "−" , "resource-id" : "de.salomax.currencies:id/btn_subtract" , "screenshotPath" : "currencies04/S0/pngs/1080_1871_1440_2132.png"}
+{ "text" : "0" , "resource-id" : "de.salomax.currencies:id/btn_0" , "screenshotPath" : "currencies04/S0/pngs/0_2132_360_2392.png"}
+{ "text" : "." , "resource-id" : "de.salomax.currencies:id/btn_decimal" , "screenshotPath" : "currencies04/S0/pngs/360_2132_720_2392.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/btn_delete" , "screenshotPath" : "currencies04/S0/pngs/720_2132_1080_2392.png"}
+{ "text" : "+" , "resource-id" : "de.salomax.currencies:id/btn_add" , "screenshotPath" : "currencies04/S0/pngs/1080_2132_1440_2392.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/clickFrom" , "screenshotPath" : "currencies04/S0/pngs/1213_461_1440_676.png"}
+{ "text" : "" , "resource-id" : "de.salomax.currencies:id/clickTo" , "screenshotPath" : "currencies04/S0/pngs/1213_982_1440_1197.png"}

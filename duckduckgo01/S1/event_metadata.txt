@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo01/S1/pngs/660_2116_1424_2284.png;
+coords: {'x1': 660, 'y1': 2116, 'x2': 1424, 'y2': 2284};
+text_identifier: { "text" : "Settings" , "resource-id" : "com.duckduckgo.mobile.android:id/settingsPopupMenuItem" };
+event: click;

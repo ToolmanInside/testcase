@@ -1,0 +1,4 @@
+pathToElementImageCrop: streetcomplete02/S1/pngs/1219_316_1440_499.png;
+coords: {'x1': 1219, 'y1': 316, 'x2': 1440, 'y2': 499};
+text_identifier: { "text" : "" , "resource-id" : "de.westnordost.streetcomplete:id/compassView" };
+event: click;

@@ -1,0 +1,11 @@
+{ "text" : "" , "content-desc" : "Undo" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_btn_top_undo" , "screenshotPath" : "pocketpaint01/S0/pngs/964_98_1132_266.png"}
+{ "text" : "" , "content-desc" : "Redo" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_btn_top_redo" , "screenshotPath" : "pocketpaint01/S0/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "pocketpaint01/S0/pngs/1300_98_1440_266.png"}
+{ "text" : "25.0" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_stroke_width_seek_bar" , "screenshotPath" : "pocketpaint01/S0/pngs/268_315_1405_419.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle" , "screenshotPath" : "pocketpaint01/S0/pngs/28_2049_224_2217.png"}
+{ "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect" , "screenshotPath" : "pocketpaint01/S0/pngs/252_2049_448_2217.png"}
+{ "text" : "" , "content-desc" : "Tools" , "resource-id" : "org.catrobat.paintroid:id/action_tools" , "screenshotPath" : "pocketpaint01/S0/pngs/0_2217_360_2392.png"}
+{ "text" : "" , "content-desc" : "Brush" , "resource-id" : "org.catrobat.paintroid:id/action_current_tool" , "screenshotPath" : "pocketpaint01/S0/pngs/360_2217_720_2392.png"}
+{ "text" : "" , "content-desc" : "Color" , "resource-id" : "org.catrobat.paintroid:id/action_color_picker" , "screenshotPath" : "pocketpaint01/S0/pngs/720_2217_1080_2392.png"}
+{ "text" : "" , "content-desc" : "Layers" , "resource-id" : "org.catrobat.paintroid:id/action_layers" , "screenshotPath" : "pocketpaint01/S0/pngs/1080_2217_1440_2392.png"}
+{ "text" : "25" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_stroke_width_width_text" , "screenshotPath" : "pocketpaint01/S0/pngs/35_315_233_419.png"}

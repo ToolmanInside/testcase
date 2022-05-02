@@ -1,0 +1,4 @@
+pathToElementImageCrop: diaguard01/S0/pngs/1152_2090_1384_2336.png;
+coords: {'x1': 1152, 'y1': 2090, 'x2': 1384, 'y2': 2336};
+text_identifier: { "text" : "" , "content-desc" : "New entry" , "resource-id" : "com.faltenreich.diaguard:id/fab_container" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies04/S0/pngs/964_112_1132_280.png;
+coords: {'x1': 964, 'y1': 112, 'x2': 1132, 'y2': 280};
+text_identifier: { "text" : "" , "content-desc" : "Exchange rate chart" , "resource-id" : "de.salomax.currencies:id/timeline" };
+event: click;

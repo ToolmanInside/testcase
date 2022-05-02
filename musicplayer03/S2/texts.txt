@@ -1,0 +1,6 @@
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/buttonPanel" , "screenshotPath" : "musicplayer03/S2/pngs/37_1515_1403_1711.png"}
+{ "text" : "" , "resource-id" : "com.simplemobiletools.musicplayer:id/sorting_dialog_scrollview" , "screenshotPath" : "musicplayer03/S2/pngs/37_914_1403_1515.png"}
+{ "text" : "CANCEL" , "resource-id" : "android:id/button2" , "screenshotPath" : "musicplayer03/S2/pngs/866_1529_1137_1697.png"}
+{ "text" : "OK" , "resource-id" : "android:id/button1" , "screenshotPath" : "musicplayer03/S2/pngs/1137_1529_1361_1697.png"}
+{ "text" : "Ascending" , "resource-id" : "com.simplemobiletools.musicplayer:id/sorting_dialog_radio_ascending" , "screenshotPath" : "musicplayer03/S2/pngs/93_1271_1347_1393.png"}
+{ "text" : "Descending" , "resource-id" : "com.simplemobiletools.musicplayer:id/sorting_dialog_radio_descending" , "screenshotPath" : "musicplayer03/S2/pngs/93_1393_1347_1515.png"}

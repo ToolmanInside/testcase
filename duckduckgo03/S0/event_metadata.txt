@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo03/S0/pngs/1186_119_1270_245.png;
+coords: {'x1': 1186, 'y1': 119, 'x2': 1270, 'y2': 245};
+text_identifier: { "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/tabsMenu" };
+event: click;

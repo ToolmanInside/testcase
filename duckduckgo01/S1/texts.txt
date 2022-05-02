@@ -1,0 +1,15 @@
+{ "text" : "" , "content-desc" : "Back" , "resource-id" : "com.duckduckgo.mobile.android:id/backPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_100_828_268.png"}
+{ "text" : "" , "content-desc" : "Forward" , "resource-id" : "com.duckduckgo.mobile.android:id/forwardPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/958_100_1126_268.png"}
+{ "text" : "" , "content-desc" : "Refresh" , "resource-id" : "com.duckduckgo.mobile.android:id/refreshPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/1256_100_1424_268.png"}
+{ "text" : "New Tab" , "resource-id" : "com.duckduckgo.mobile.android:id/newTabPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_268_1424_436.png"}
+{ "text" : "Bookmarks" , "resource-id" : "com.duckduckgo.mobile.android:id/bookmarksPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_436_1424_604.png"}
+{ "text" : "Add Bookmark" , "resource-id" : "com.duckduckgo.mobile.android:id/addBookmarksPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_604_1424_772.png"}
+{ "text" : "Add Favorite" , "resource-id" : "com.duckduckgo.mobile.android:id/addFavoritePopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_772_1424_940.png"}
+{ "text" : "Fireproof Site" , "resource-id" : "com.duckduckgo.mobile.android:id/fireproofWebsitePopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_940_1424_1108.png"}
+{ "text" : "Share…" , "resource-id" : "com.duckduckgo.mobile.android:id/sharePageMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1108_1424_1276.png"}
+{ "text" : "Find in Page" , "resource-id" : "com.duckduckgo.mobile.android:id/findInPageMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1276_1424_1444.png"}
+{ "text" : "Add to Home" , "resource-id" : "com.duckduckgo.mobile.android:id/addToHome" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1444_1424_1612.png"}
+{ "text" : "Desktop Site" , "resource-id" : "com.duckduckgo.mobile.android:id/requestDesktopSiteCheckMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1612_1424_1780.png"}
+{ "text" : "Disable Privacy Protection" , "resource-id" : "com.duckduckgo.mobile.android:id/whitelistPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1780_1424_1948.png"}
+{ "text" : "Report Broken Site" , "resource-id" : "com.duckduckgo.mobile.android:id/brokenSitePopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_1948_1424_2116.png"}
+{ "text" : "Settings" , "resource-id" : "com.duckduckgo.mobile.android:id/settingsPopupMenuItem" , "screenshotPath" : "duckduckgo01/S1/pngs/660_2116_1424_2284.png"}

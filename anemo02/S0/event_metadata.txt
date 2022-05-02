@@ -1,0 +1,4 @@
+pathToElementImageCrop: anemo02/S0/pngs/1188_497_1356_665.png;
+coords: {'x1': 1188, 'y1': 497, 'x2': 1356, 'y2': 665};
+text_identifier: { "text" : "" , "resource-id" : "com.android.documentsui:id/sub_menu" , "text" : "" , "content-desc" : "List view" , "resource-id" : "com.android.documentsui:id/sub_menu_list" };
+event: click;

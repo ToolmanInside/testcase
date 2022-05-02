@@ -1,0 +1,4 @@
+pathToElementImageCrop: anemo01/S0/pngs/1076_112_1244_280.png;
+coords: {'x1': 1076, 'y1': 112, 'x2': 1244, 'y2': 280};
+text_identifier: { "text" : "" , "content-desc" : "Search" , "resource-id" : "com.android.documentsui:id/option_menu_search" };
+event: click;

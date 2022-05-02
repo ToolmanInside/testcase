@@ -1,0 +1,7 @@
+{ "text" : "" , "resource-id" : "de.westnordost.streetcomplete:id/answers_counter_fragment" , "screenshotPath" : "streetcomplete04/S3/pngs/0_84_292_246.png"}
+{ "text" : "" , "content-desc" : "Zoom in" , "resource-id" : "de.westnordost.streetcomplete:id/zoomInButton" , "screenshotPath" : "streetcomplete04/S3/pngs/1230_1685_1440_1895.png"}
+{ "text" : "" , "content-desc" : "Zoom out" , "resource-id" : "de.westnordost.streetcomplete:id/zoomOutButton" , "screenshotPath" : "streetcomplete04/S3/pngs/1230_1895_1440_2105.png"}
+{ "text" : "" , "content-desc" : "Follow me" , "resource-id" : "de.westnordost.streetcomplete:id/gpsTrackingButton" , "screenshotPath" : "streetcomplete04/S3/pngs/1230_2105_1440_2315.png"}
+{ "text" : "© OpenStreetMap contributors" , "resource-id" : "de.westnordost.streetcomplete:id/openstreetmapLink" , "screenshotPath" : "streetcomplete04/S3/pngs/28_2307_602_2364.png"}
+{ "text" : "© JawgMaps" , "resource-id" : "de.westnordost.streetcomplete:id/mapTileProviderLink" , "screenshotPath" : "streetcomplete04/S3/pngs/602_2307_881_2364.png"}
+{ "text" : "" , "content-desc" : "Menu" , "resource-id" : "de.westnordost.streetcomplete:id/mainMenuButton" , "screenshotPath" : "streetcomplete04/S3/pngs/1230_84_1440_294.png"}

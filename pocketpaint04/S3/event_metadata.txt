@@ -1,0 +1,4 @@
+pathToElementImageCrop: pocketpaint04/S3/pngs/0_1153_360_1321.png;
+coords: {'x1': 0, 'y1': 1153, 'x2': 360, 'y2': 1321};
+text_identifier: { "text" : "" , "resource-id" : "org.catrobat.paintroid:id/pocketpaint_tools_brush" };
+event: click;

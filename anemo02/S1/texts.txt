@@ -1,0 +1,10 @@
+{ "text" : "" , "content-desc" : "Show roots" , "screenshotPath" : "anemo02/S1/pngs/28_112_224_280.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/horizontal_breadcrumb" , "screenshotPath" : "anemo02/S1/pngs/0_308_1440_476.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.android.documentsui:id/option_menu_search" , "screenshotPath" : "anemo02/S1/pngs/1076_112_1244_280.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "anemo02/S1/pngs/1244_112_1412_280.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/dir_list" , "screenshotPath" : "anemo02/S1/pngs/0_84_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Grid view" , "resource-id" : "com.android.documentsui:id/sub_menu_grid" , "screenshotPath" : "anemo02/S1/pngs/1188_497_1356_665.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/item_root" , "screenshotPath" : "anemo02/S1/pngs/0_686_1440_938.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/item_root" , "screenshotPath" : "anemo02/S1/pngs/0_938_1440_1190.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/item_root" , "screenshotPath" : "anemo02/S1/pngs/0_1190_1440_1442.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/item_root" , "screenshotPath" : "anemo02/S1/pngs/0_1442_1440_1694.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies01/S1/pngs/1080_1611_1440_1871.png;
+coords: {'x1': 1080, 'y1': 1611, 'x2': 1440, 'y2': 1871};
+text_identifier: { "text" : "×" , "resource-id" : "de.salomax.currencies:id/btn_multiply" };
+event: click;

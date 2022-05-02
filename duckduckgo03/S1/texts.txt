@@ -1,0 +1,6 @@
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/tabsRecycler" , "screenshotPath" : "duckduckgo03/S1/pngs/25_280_1415_2392.png"}
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "duckduckgo03/S1/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "Clear Data" , "resource-id" : "com.duckduckgo.mobile.android:id/fire" , "screenshotPath" : "duckduckgo03/S1/pngs/964_98_1132_266.png"}
+{ "text" : "" , "content-desc" : "New Tab" , "resource-id" : "com.duckduckgo.mobile.android:id/newTab" , "screenshotPath" : "duckduckgo03/S1/pngs/1132_98_1300_266.png"}
+{ "text" : "" , "content-desc" : "More options" , "screenshotPath" : "duckduckgo03/S1/pngs/1300_98_1440_266.png"}
+{ "text" : "" , "content-desc" : "Close" , "resource-id" : "com.duckduckgo.mobile.android:id/close" , "screenshotPath" : "duckduckgo03/S1/pngs/569_336_695_462.png"}

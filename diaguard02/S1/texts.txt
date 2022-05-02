@@ -1,0 +1,4 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "diaguard02/S1/pngs/0_84_196_280.png"}
+{ "text" : "" , "resource-id" : "com.faltenreich.diaguard:id/list_view" , "screenshotPath" : "diaguard02/S1/pngs/0_308_1440_1359.png"}
+{ "text" : "" , "content-desc" : "Back" , "resource-id" : "com.faltenreich.diaguard:id/back_button" , "screenshotPath" : "diaguard02/S1/pngs/28_112_196_280.png"}
+{ "text" : "Notes, tags, …" , "resource-id" : "com.faltenreich.diaguard:id/input_field" , "screenshotPath" : "diaguard02/S1/pngs/224_112_1412_280.png"}

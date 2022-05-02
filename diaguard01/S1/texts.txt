@@ -1,0 +1,9 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "diaguard01/S1/pngs/0_84_196_280.png"}
+{ "text" : "" , "content-desc" : "New entry" , "resource-id" : "com.faltenreich.diaguard:id/fab_container" , "screenshotPath" : "diaguard01/S1/pngs/1152_2090_1384_2336.png"}
+{ "text" : "" , "resource-id" : "com.faltenreich.diaguard:id/scroll_view" , "screenshotPath" : "diaguard01/S1/pngs/0_280_1440_2392.png"}
+{ "text" : "May 2, 2022" , "resource-id" : "com.faltenreich.diaguard:id/date_button" , "screenshotPath" : "diaguard01/S1/pngs/224_280_597_469.png"}
+{ "text" : "19:37" , "resource-id" : "com.faltenreich.diaguard:id/time_button" , "screenshotPath" : "diaguard01/S1/pngs/597_280_905_469.png"}
+{ "text" : "Note" , "resource-id" : "com.faltenreich.diaguard:id/note_input" , "screenshotPath" : "diaguard01/S1/pngs/224_718_1384_803.png"}
+{ "text" : "No reminder" , "resource-id" : "com.faltenreich.diaguard:id/alarm_button" , "screenshotPath" : "diaguard01/S1/pngs/224_859_1384_1048.png"}
+{ "text" : "Tags" , "resource-id" : "com.faltenreich.diaguard:id/tag_input" , "screenshotPath" : "diaguard01/S1/pngs/224_473_1272_662.png"}
+{ "text" : "" , "content-desc" : "Tags" , "resource-id" : "com.faltenreich.diaguard:id/tag_edit_button" , "screenshotPath" : "diaguard01/S1/pngs/1300_525_1384_609.png"}

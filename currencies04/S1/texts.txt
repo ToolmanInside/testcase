@@ -1,0 +1,5 @@
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "currencies04/S1/pngs/0_98_196_294.png"}
+{ "text" : "" , "content-desc" : "toggle currencies" , "resource-id" : "de.salomax.currencies:id/toggle" , "screenshotPath" : "currencies04/S1/pngs/1272_112_1440_280.png"}
+{ "text" : "WEEK" , "resource-id" : "de.salomax.currencies:id/button_week" , "screenshotPath" : "currencies04/S1/pngs/56_2168_488_2336.png"}
+{ "text" : "MONTH" , "resource-id" : "de.salomax.currencies:id/button_month" , "screenshotPath" : "currencies04/S1/pngs/484_2168_955_2336.png"}
+{ "text" : "YEAR" , "resource-id" : "de.salomax.currencies:id/button_year" , "screenshotPath" : "currencies04/S1/pngs/951_2168_1384_2336.png"}

@@ -1,0 +1,8 @@
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/newTabLayout" , "screenshotPath" : "duckduckgo01/S0/pngs/0_84_1440_2392.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/fireIconMenu" , "screenshotPath" : "duckduckgo01/S0/pngs/1024_84_1158_280.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/tabsMenu" , "screenshotPath" : "duckduckgo01/S0/pngs/1186_119_1270_245.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/browserMenu" , "screenshotPath" : "duckduckgo01/S0/pngs/1298_84_1440_280.png"}
+{ "text" : "Search or type URL" , "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" , "screenshotPath" : "duckduckgo01/S0/pngs/161_112_968_252.png"}
+{ "text" : "You've got this!
+
+Remember: Every time you browse with me, a creepy ad loses its wings. 👍" , "resource-id" : "com.duckduckgo.mobile.android:id/dialogTextCta" , "screenshotPath" : "duckduckgo01/S0/pngs/84_753_1356_1027.png"}

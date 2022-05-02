@@ -1,0 +1,4 @@
+pathToElementImageCrop: musicplayer01/S3/pngs/1137_1529_1361_1697.png;
+coords: {'x1': 1137, 'y1': 1529, 'x2': 1361, 'y2': 1697};
+text_identifier: { "text" : "OK" , "resource-id" : "android:id/button1" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: musicplayer02/S0/pngs/964_98_1132_266.png;
+coords: {'x1': 964, 'y1': 98, 'x2': 1132, 'y2': 266};
+text_identifier: { "text" : "" , "content-desc" : "Search" , "resource-id" : "com.simplemobiletools.musicplayer:id/search" };
+event: click;

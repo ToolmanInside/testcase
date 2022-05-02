@@ -1,0 +1,3 @@
+{ "text" : "" , "content-desc" : "Back" , "screenshotPath" : "anemo01/S1/pngs/28_112_224_280.png"}
+{ "text" : "" , "resource-id" : "com.android.documentsui:id/option_menu_search" , "screenshotPath" : "anemo01/S1/pngs/280_112_1412_280.png"}
+{ "text" : "Search…" , "resource-id" : "com.android.documentsui:id/search_src_text" , "screenshotPath" : "anemo01/S1/pngs/308_133_1384_259.png"}

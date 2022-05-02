@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo02/S0/pngs/1298_84_1440_280.png;
+coords: {'x1': 1298, 'y1': 84, 'x2': 1440, 'y2': 280};
+text_identifier: { "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/browserMenu" };
+event: click;

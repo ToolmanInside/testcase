@@ -1,0 +1,4 @@
+pathToElementImageCrop: streetcomplete04/S5/pngs/1230_84_1440_294.png;
+coords: {'x1': 1230, 'y1': 84, 'x2': 1440, 'y2': 294};
+text_identifier: { "text" : "" , "resource-id" : "de.westnordost.streetcomplete:id/main_menu_button_fragment" , "text" : "" , "text" : "" , "resource-id" : "de.westnordost.streetcomplete:id/mainMenuButtonWrapper" , "text" : "" , "content-desc" : "Menu" , "resource-id" : "de.westnordost.streetcomplete:id/mainMenuButton" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies02/S1/pngs/1067_2153_1305_2321.png;
+coords: {'x1': 1067, 'y1': 2153, 'x2': 1305, 'y2': 2321};
+text_identifier: { "text" : "Cancel" , "resource-id" : "android:id/button2" };
+event: click;

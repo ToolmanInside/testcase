@@ -1,0 +1,4 @@
+pathToElementImageCrop: pocketpaint03/S0/pngs/720_2217_1080_2392.png;
+coords: {'x1': 720, 'y1': 2217, 'x2': 1080, 'y2': 2476};
+text_identifier: { "text" : "" , "content-desc" : "Color" , "resource-id" : "org.catrobat.paintroid:id/action_color_picker" };
+event: click;

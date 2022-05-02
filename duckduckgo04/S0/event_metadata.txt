@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo04/S0/pngs/1024_84_1158_280.png;
+coords: {'x1': 1024, 'y1': 84, 'x2': 1158, 'y2': 280};
+text_identifier: { "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/fireIconMenu" };
+event: click;

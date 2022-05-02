@@ -1,0 +1,4 @@
+pathToElementImageCrop: currencies01/S3/pngs/720_1611_1080_1871.png;
+coords: {'x1': 720, 'y1': 1611, 'x2': 1080, 'y2': 1871};
+text_identifier: { "text" : "6" , "resource-id" : "de.salomax.currencies:id/btn_6" };
+event: click;

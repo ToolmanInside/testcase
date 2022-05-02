@@ -1,0 +1,11 @@
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/includeSettings" , "screenshotPath" : "duckduckgo01/S2/pngs/0_280_1440_2392.png"}
+{ "text" : "" , "content-desc" : "Navigate up" , "screenshotPath" : "duckduckgo01/S2/pngs/0_84_196_280.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/selectedThemeSetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_507_1440_734.png"}
+{ "text" : "Autocomplete Suggestions" , "resource-id" : "com.duckduckgo.mobile.android:id/autocompleteToggle" , "screenshotPath" : "duckduckgo01/S2/pngs/0_734_1440_885.png"}
+{ "text" : "Set as Default Browser" , "resource-id" : "com.duckduckgo.mobile.android:id/setAsDefaultBrowserSetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_885_1440_1036.png"}
+{ "text" : "App Icon" , "resource-id" : "com.duckduckgo.mobile.android:id/changeAppIconLabel" , "screenshotPath" : "duckduckgo01/S2/pngs/0_1036_1440_1187.png"}
+{ "text" : "Home Screen Widget" , "resource-id" : "com.duckduckgo.mobile.android:id/homeScreenWidgetSetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_1187_1440_1338.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/selectedFireAnimationSetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_1338_1440_1565.png"}
+{ "text" : "Accessibility" , "resource-id" : "com.duckduckgo.mobile.android:id/accessibilitySetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_1565_1440_1716.png"}
+{ "text" : "" , "resource-id" : "com.duckduckgo.mobile.android:id/globalPrivacyControlSetting" , "screenshotPath" : "duckduckgo01/S2/pngs/0_2035_1440_2262.png"}
+{ "text" : "Fireproof Sites" , "resource-id" : "com.duckduckgo.mobile.android:id/fireproofWebsites" , "screenshotPath" : "duckduckgo01/S2/pngs/0_2262_1440_2392.png"}

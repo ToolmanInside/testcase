@@ -1,0 +1,13 @@
+{ "text" : "" , "resource-id" : "com.simplemobiletools.gallery.pro:id/buttonPanel" , "screenshotPath" : "gallery01/S1/pngs/37_1834_1403_2030.png"}
+{ "text" : "" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_scrollview" , "screenshotPath" : "gallery01/S1/pngs/37_595_1403_1834.png"}
+{ "text" : "CANCEL" , "resource-id" : "android:id/button2" , "screenshotPath" : "gallery01/S1/pngs/866_1848_1137_2016.png"}
+{ "text" : "OK" , "resource-id" : "android:id/button1" , "screenshotPath" : "gallery01/S1/pngs/1137_1848_1361_2016.png"}
+{ "text" : "Name" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_name" , "screenshotPath" : "gallery01/S1/pngs/93_651_1347_773.png"}
+{ "text" : "Path" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_path" , "screenshotPath" : "gallery01/S1/pngs/93_773_1347_895.png"}
+{ "text" : "Size" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_size" , "screenshotPath" : "gallery01/S1/pngs/93_895_1347_1017.png"}
+{ "text" : "Last modified" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_last_modified" , "screenshotPath" : "gallery01/S1/pngs/93_1017_1347_1139.png"}
+{ "text" : "Date taken" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_date_taken" , "screenshotPath" : "gallery01/S1/pngs/93_1139_1347_1261.png"}
+{ "text" : "Random" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_random" , "screenshotPath" : "gallery01/S1/pngs/93_1261_1347_1383.png"}
+{ "text" : "Custom" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_custom" , "screenshotPath" : "gallery01/S1/pngs/93_1383_1347_1505.png"}
+{ "text" : "Ascending" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_ascending" , "screenshotPath" : "gallery01/S1/pngs/93_1562_1347_1684.png"}
+{ "text" : "Descending" , "resource-id" : "com.simplemobiletools.gallery.pro:id/sorting_dialog_radio_descending" , "screenshotPath" : "gallery01/S1/pngs/93_1684_1347_1806.png"}
