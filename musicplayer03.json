@@ -16,12 +16,12 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_ratio_ascending"
+                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_radio_ascending"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_ratio_descending"
+                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_radio_descending"
                 },
                 {
                     "type": "id",
