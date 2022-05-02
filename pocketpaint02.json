@@ -11,12 +11,12 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/action_tools"
+                    "tag": "org.catrobat.paintroid:id/action_tools"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_tools_brush"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_tools_brush"
                 }
             ]
         }

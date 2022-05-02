@@ -11,12 +11,12 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle"
                 }
             ]
         }

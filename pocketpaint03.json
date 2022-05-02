@@ -11,7 +11,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/action_color_picker"
+                    "tag": "org.catrobat.paintroid:id/action_color_picker"
                 },
                 {
                     "type": "id",

@@ -11,27 +11,27 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/action_tools"
+                    "tag": "org.catrobat.paintroid:id/action_tools"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/pocketpaint_tools_brush"
+                    "tag": "org.catrobat.paintroid:id/pocketpaint_tools_brush"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.catrobat.paintroid:id/action_color_picker"
+                    "tag": "org.catrobat.paintroid:id/action_color_picker"
                 },
                 {
                     "type": "id",
