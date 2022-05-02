@@ -16,7 +16,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.simplemobiletools.gallery.pro:id/sort"
+                    "tag": "android:id/button2"
                 }
             ]
         }
