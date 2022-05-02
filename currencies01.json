@@ -1,0 +1,54 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "currencies01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_8"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_multiply"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_4"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_6"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_delete"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_delete"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_delete"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/btn_delete"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "anemo02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.documentsui:id/sub_menu_list"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.documentsui:id/sub_menu_list"
+                }
+            ]
+        }
+    ]
+}

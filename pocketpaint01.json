@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "pocketpaint01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_rect"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.catrobat.paintroid:id/pocketpaint_stroke_ibtn_circle"
+                }
+            ]
+        }
+    ]
+}

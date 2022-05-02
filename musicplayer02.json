@@ -1,0 +1,22 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "musicplayer02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.simplemobiletools.musicplayer:id/search"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

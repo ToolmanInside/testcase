@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "musicplayer01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.simplemobiletools.musicplayer:id/sort"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_ratio_ascending"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.simplemobiletools.musicplayer:id/sorting_dialog_ratio_descending"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/button1"
+                }
+            ]
+        }
+    ]
+}

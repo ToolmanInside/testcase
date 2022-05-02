@@ -1,0 +1,52 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "streetcomplete04",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/zoomInButton"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/zoomOutButton"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/zoomInButton"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/gpsTrackingButton"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/compassView"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/mainMenuButton"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "de.westnordost.streetcomplete:id/settingsButton"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

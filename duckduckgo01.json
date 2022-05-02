@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo01",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/browserMenu"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/settingPopupMenuItem"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/autocompleteToggle"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo02",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/browserMenu"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/bookmarksPopupMenuItem"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}

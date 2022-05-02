@@ -1,0 +1,27 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "Pixel_5_API_30",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "currencies04",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/timeline"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.salomax.currencies:id/toggle"
+                },
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ]
+}
