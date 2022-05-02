@@ -11,7 +11,7 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/spinnerFrom"
+                    "tag": "de.salomax.currencies:id/spinnerFrom"
                 },
                 {
                     "type": "id",

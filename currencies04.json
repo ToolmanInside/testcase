@@ -11,12 +11,12 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/timeline"
+                    "tag": "de.salomax.currencies:id/timeline"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/toggle"
+                    "tag": "de.salomax.currencies:id/toggle"
                 },
                 {
                     "event": "back"

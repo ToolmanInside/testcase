@@ -11,42 +11,42 @@
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_8"
+                    "tag": "de.salomax.currencies:id/btn_8"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_multiply"
+                    "tag": "de.salomax.currencies:id/btn_multiply"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_4"
+                    "tag": "de.salomax.currencies:id/btn_4"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_6"
+                    "tag": "de.salomax.currencies:id/btn_6"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_delete"
+                    "tag": "de.salomax.currencies:id/btn_delete"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_delete"
+                    "tag": "de.salomax.currencies:id/btn_delete"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_delete"
+                    "tag": "de.salomax.currencies:id/btn_delete"
                 },
                 {
                     "type": "id",
                     "event": "click",
-                    "tag": "com.salomax.currencies:id/btn_delete"
+                    "tag": "de.salomax.currencies:id/btn_delete"
                 }
             ]
         }
